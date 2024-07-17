@@ -1,3 +1,5 @@
+#参考Firefly的目录框架,搭建针对Taiyi的k-shot 四任务pipeline
+
 ## 项目目录
 
 ```python
@@ -71,7 +73,7 @@ pipeline/
 
 ## 示例使用
 
-**我们以数据集bc5cdr_re，zero shot推理验证为例 **
+**我们以数据集bc5cdr_re，zero shot推理验证为例**
 
 ### 1.获取few shot示例文件
 
