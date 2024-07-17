@@ -81,20 +81,20 @@ pipeline/
 
 + 注意！首先要到每个脚本文件中配置脚本文件的路径，建议使用绝对路径
 
-![pic2](.\pics\pic2.png)
+![pic2](./pics/pic2.png)
 
 + 配置config.yaml
 
-![pic3](.\pics\pic3.png)
+![pic3](./pics/pic3.png)
 
 + 在命令行输入`python 1_extracted_shot.py`，运行效果如下
 
-![pic4](.\pics\pic4.png)
+![pic4](./pics/pic4.png)
 
 + 执行结果在extractd_set文件夹下，数据样例如图所示
   + 其中增加了'example'键，值是列表，列表元素是few shot 示例，0 shot所以为空列表
 
-![pic5](.\pics\pic5.png)
+![pic5](./pics/pic5.png)
 
 
 
@@ -102,15 +102,15 @@ pipeline/
 
 + 配置config.yaml
 
-![pic6](.\pics\pic6.png)
+![pic6](./pics/pic6.png)
 
 + 在命令行输入`python 2_generate_inpuf.py`，运行效果如下
 
-![pic7](.\pics\pic7.png)
+![pic7](./pics/pic7.png)
 
 + 输出model_inpuf与Firefly框架的数据输入格式一致，可直接用Firefly框架微调
 
-![pic8](.\pics\pic8.png)
+![pic8](./pics/pic8.png)
 
 
 
@@ -118,17 +118,17 @@ pipeline/
 
 + 配置config.yaml
 
-![pic9](.\pics\pic9.png)
+![pic9](./pics/pic9.png)
 
 + 在命令行输入`python 3_val.py`，运行效果如下
 
-<img src=".\pics\pic10.png" alt="pic10" style="zoom:25%;" />
+<img src="./pics/pic10.png" alt="pic10" style="zoom:25%;" />
 
 + 结果在pred_resulf文件夹下，数据样例如图所示
   + 'pred'是模型预测结果
   + 'label'是数据集标签，是原理数据集中的'assistant'
 
-![pic11](.\pics\pic11.png)
+![pic11](./pics/pic11.png)
 
 
 
@@ -136,21 +136,21 @@ pipeline/
 
 + 配置config.yaml
 
-![pic12](.\pics\pic12.png)
+![pic12](./pics/pic12.png)
 
 + 在命令行输入`python 4_score.py`，运行效果如下
 
-![pic13](.\pics\pic13.png)
+![pic13](./pics/pic13.png)
 
 + 具体信息会保存到score.log文件
 
-![pic14](.\pics\pic14.png)
+![pic14](./pics/pic14.png)
 
 
 
 **结果不如论文的原因是，构建model_inpuf文件时，使用few shot模板作为模型输入，会对模型造成干扰**
 
-![pic15](.\pics\pic15.png)
+![pic15](./pics/pic15.png)
 
 用之前的复现pipeline效果与论文基本一致
 
