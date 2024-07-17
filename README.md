@@ -1,4 +1,4 @@
-#参考Firefly的目录框架,搭建针对Taiyi的k-shot 四任务pipeline
+# 参考Firefly的目录框架,搭建针对Taiyi的k-shot 四任务pipeline
 
 ## 项目目录
 
