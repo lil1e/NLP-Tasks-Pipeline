@@ -1,0 +1,2002 @@
+[
+    {
+        "pred": "chemical-induced disease relations: [Famotidine, delirium]; [famotidine, delirium]",
+        "label": "chemical-induced disease relations: [Famotidine, delirium]; [famotidine, delirium]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Indomethacin, hypotension]",
+        "label": "chemical-induced disease relations: [Indomethacin, hypotension]; [indomethacin, hypotension]; [IDM, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [prednisolone, Scleroderma renal crisis]; [tacrolimus, Scleroderma renal crisis]",
+        "label": "chemical-induced disease relations: [cyclosporine, thrombotic microangiopathy]; [corticosteroid, systemic sclerosis]; [corticosteroid, SSc]; [corticosteroids, systemic sclerosis]; [corticosteroids, SSc]; [tacrolimus, systemic sclerosis]; [tacrolimus, SSc]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [methamphetamine, psychosis]; [methamphetamine, psychotic symptoms]; [methamphetamine, bipolar disorder]; [methamphetamine, antisocial personality disorder]; [methamphetamine, antisocial personality]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [levodopa, dyskinetic]; [levodopa, dyskinesias]; [levodopa, LIDs]; [levodopa, abnormal involuntary movements]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cyclophosphamide, spontaneous pain behaviors]; [CYP, spontaneous pain behaviors]",
+        "label": "chemical-induced disease relations: [cyclophosphamide, cystitis]; [CYP, cystitis]; [Cyclophosphamide, cystitis]; [cyclophosphamide, pain]; [CYP, pain]; [Cyclophosphamide, pain]; [cyclophosphamide, edema]; [CYP, edema]; [Cyclophosphamide, edema]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [clopidogrel, acute hepatitis]",
+        "label": "chemical-induced disease relations: [clopidogrel, hepatitis]; [clopidogrel, hepatotoxicity]; [clopidogrel, hepatic injury]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Bortezomib, peripheral neuropathy]; [dexamethasone, peripheral neuropathy]",
+        "label": "chemical-induced disease relations: [dexamethasone, peripheral neuropathy]; [dex, peripheral neuropathy]; [Bortezomib, peripheral neuropathy]; [bort, peripheral neuropathy]; [Bort, peripheral neuropathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Bisphenol A, anxiety]; [BPA, anxiety]",
+        "label": "chemical-induced disease relations: [Bisphenol A, anxiety]; [BPA, anxiety]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [isoproterenol, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [isoproterenol, cardiotoxicity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [dexamethasone, Peripheral neuropathy]; [RD, Peripheral neuropathy]; [dexamethasone, myelosuppression]; [RD, myelosuppression]; [dexamethasone, deep vein thrombosis]; [RD, deep vein thrombosis]; [lenalidomide, myelosuppression]; [Lenalidomide, myelosuppression]; [lenalidomide, Peripheral neuropathy]; [Lenalidomide, Peripheral neuropathy]; [lenalidomide, deep vein thrombosis]; [Lenalidomide, deep vein thrombosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [IFO, hemorrhagic cystitis]",
+        "label": "chemical-induced disease relations: [ifosfamide, hemorrhagic cystitis]; [ifosfamide, cystitis]; [Ifosfamide, hemorrhagic cystitis]; [Ifosfamide, cystitis]; [IFO, hemorrhagic cystitis]; [IFO, cystitis]; [ifosfamide, hemorrhagic]; [Ifosfamide, hemorrhagic]; [IFO, hemorrhagic]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [levodopa, dyskinesia]",
+        "label": "chemical-induced disease relations: [levodopa, dyskinesia]; [levodopa, Dyskinesia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [rapamycin, amyloidosis]; [everolimus, Proteinuria]; [everolimus, amyloidosis]; [rapamycin, Proteinuria]",
+        "label": "chemical-induced disease relations: [everolimus, AL]; [everolimus, amyloidosis]; [everolimus, proteinuria]; [everolimus, Proteinuria]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [tenofovir disoproxil fumarate, acute kidney injury]; [TDF, acute kidney injury]; [tenofovir disoproxil fumarate, Fanconi syndrome]; [TDF, Fanconi syndrome]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [thiopentone, postoperative delirium]; [thiopentone, Postoperative delirium]; [Thiopentone, postoperative delirium]; [Thiopentone, Postoperative delirium]; [thiopentone, delirium]; [Thiopentone, delirium]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [methamphetamine, depressive-like behaviour]; [METH, depressive-like behaviour]; [METH, depressive symptoms]; [METH, depressive-like behaviour]; [methamphetamine, depressive symptoms]; [METH, depressive]",
+        "label": "chemical-induced disease relations: [methamphetamine, depressive]; [methamphetamine, depressive symptoms]; [methamphetamine, depression]; [Methamphetamine, depressive]; [Methamphetamine, depressive symptoms]; [Methamphetamine, depression]; [METH, depressive]; [METH, depressive symptoms]; [METH, depression]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [linezolid, optic neuropathy]; [ethambutol, optic neuropathy]; [Linezolid, optic neuropathy]",
+        "label": "chemical-induced disease relations: [Linezolid, optic neuropathy]; [Linezolid, toxic optic neuropathy]; [linezolid, optic neuropathy]; [linezolid, toxic optic neuropathy]; [Linezolid, optic disc edema]; [linezolid, optic disc edema]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [levobupivacaine, cardiovascular collapse]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [heparin, thrombocytopenia type II]; [heparin, Thrombocytopenia]; [heparin, HIT type II]; [heparin, thrombocytopenia]; [heparin, HIT II]; [heparin, HIT]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Zolmitriptan, coronary artery vasospasm]; [zolmitriptan, coronary artery vasospasm]; [Zolmitriptan, Takotsubo syndrome]; [Zolmitriptan, apical ballooning syndrome]; [Zolmitriptan, TS]; [Zolmitriptan, broken heart syndrome]; [zolmitriptan, Takotsubo syndrome]; [zolmitriptan, apical ballooning syndrome]; [zolmitriptan, TS]; [zolmitriptan, broken heart syndrome]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [3,4-methylenedioxymethamphetamine, sleep disturbance]; [MDMA, sleep disturbance]; [ecstasy, sleep disturbance]; [Ecstasy, sleep disturbance]; [3,4-methylenedioxymethamphetamine, impulsiveness]; [3,4-methylenedioxymethamphetamine, Impulsiveness]; [MDMA, impulsiveness]; [MDMA, Impulsiveness]; [ecstasy, impulsiveness]; [ecstasy, Impulsiveness]; [Ecstasy, impulsiveness]; [Ecstasy, Impulsiveness]; [3,4-methylenedioxymethamphetamine, Depression]; [3,4-methylenedioxymethamphetamine, depression]; [MDMA, Depression]; [MDMA, depression]; [ecstasy, Depression]; [ecstasy, depression]; [Ecstasy, Depression]; [Ecstasy, depression]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [levodopa, visual hallucinations]; [Levodopa, visual hallucinations]; [levodopa, dyskinesia]; [Levodopa, dyskinesia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [diazinon, hypolipidemic]; [diazinon, hyperlipemia]",
+        "label": "chemical-induced disease relations: [diazinon, hyperlipemia]; [Diazinon, hyperlipemia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [methylprednisolone, neutropenia]; [GEM, thrombocytopenia]; [Gemcitabine, thrombocytopenia]; [gemcitabine, thrombocytopenia]; [methylprednisolone, thrombocytopenia]; [GEM, neutropenia]; [Gemcitabine, neutropenia]; [gemcitabine, neutropenia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Ecstasy, depression]; [MDMA, anxiety]; [Ecstasy, anxiety]; [Ecstasy, depression]; [MDMA, depression]",
+        "label": "chemical-induced disease relations: [ecstasy, depression]; [Ecstasy, depression]; [MDMA, depression]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Ifosfamide, encephalopathy]; [ifosfamide, convulsions]; [Ifosfamide, convulsions]; [ifosfamide, Encephalopathy]; [Ifosfamide, Encephalopathy]; [ifosfamide, encephalopathy]",
+        "label": "chemical-induced disease relations: [Ifosfamide, convulsions]; [ifosfamide, convulsions]; [Ifosfamide, non-convulsive status epilepticus]; [Ifosfamide, NCSE]; [ifosfamide, non-convulsive status epilepticus]; [ifosfamide, NCSE]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [contrast, nephropathy]; [Contrast, nephropathy]; [irinotecan, nephropathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [desvenlafaxine, SIADH]",
+        "label": "chemical-induced disease relations: [desvenlafaxine, Syndrome of inappropriate antidiuretic hormone]; [desvenlafaxine, syndrome of inappropriate anti-diuretic hormone]; [desvenlafaxine, SIADH]; [Desvenlafaxine, Syndrome of inappropriate antidiuretic hormone]; [Desvenlafaxine, syndrome of inappropriate anti-diuretic hormone]; [Desvenlafaxine, SIADH]; [desvenlafaxine, anxiety]; [Desvenlafaxine, anxiety]; [desvenlafaxine, hyponatraemia]; [desvenlafaxine, hyponatremia]; [Desvenlafaxine, hyponatraemia]; [Desvenlafaxine, hyponatremia]; [desvenlafaxine, confusion]; [Desvenlafaxine, confusion]; [desvenlafaxine, nausea]; [Desvenlafaxine, nausea]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [doxorubicin, cardiotoxicity]; [DOX, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [doxorubicin, cardiotoxicity]; [DOX, cardiotoxicity]; [doxorubicin, necrosis]; [DOX, necrosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [Tacrolimus, seizure]; [TAC, seizure]",
+        "label": "chemical-induced disease relations: [Tacrolimus, seizure]; [Tacrolimus, seizures]; [Tacrolimus, Seizures]; [TAC, seizure]; [TAC, seizures]; [TAC, Seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [scopolamine, amnesia]",
+        "label": "chemical-induced disease relations: [scopolamine, amnesia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [morphine, amnesia]",
+        "label": "chemical-induced disease relations: [morphine, amnesia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [STZ, neurotoxicity]; [Streptozotocin, memory impaired]; [STZ, memory impaired]; [STZ, memory impairment]; [STZ, neurotoxicity]; [Streptozotocin, neurotoxicity]",
+        "label": "chemical-induced disease relations: [Streptozotocin, neuroinflammation]; [Streptozotocin, neuroinflammatory]; [STZ, neuroinflammation]; [STZ, neuroinflammatory]; [Streptozotocin, memory impairment]; [Streptozotocin, memory impaired]; [Streptozotocin, Memory deficit]; [STZ, memory impairment]; [STZ, memory impaired]; [STZ, Memory deficit]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [sodium chloride, Contrast-induced nephropathy]",
+        "label": "chemical-induced disease relations: [contrast, acute renal failure]; [contrast, ARF]; [Contrast, acute renal failure]; [Contrast, ARF]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [methotrexate, leukoencephalopathy]",
+        "label": "chemical-induced disease relations: [methotrexate, attention problems]; [MTX, attention problems]; [methotrexate, leukoencephalopathy]; [MTX, leukoencephalopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Tranexamic acid, convulsion]; [Tranexamic acid, convulsions]; [TNA, convulsion]; [TNA, convulsions]",
+        "label": "chemical-induced disease relations: [Tranexamic acid, tonic clonic convulsions]; [TNA, tonic clonic convulsions]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [bupivacaine, cardiovascular depression]",
+        "label": "chemical-induced disease relations: [bupivacaine, asystole]; [Bupivacaine, asystole]; [bupivacaine, cardiotoxicity]; [bupivacaine, cardiotoxic]; [Bupivacaine, cardiotoxicity]; [Bupivacaine, cardiotoxic]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Fluvastatin, abdominal pain]; [fluvastatin, abdominal pain]; [Fluvastatin, Drug-Induced Acute Liver Injury]; [Fluvastatin, drug-induced liver injury]; [Fluvastatin, liver damage]; [Fluvastatin, hepatic damage]; [fluvastatin, Drug-Induced Acute Liver Injury]; [fluvastatin, drug-induced liver injury]; [fluvastatin, liver damage]; [fluvastatin, hepatic damage]; [Fluvastatin, anorexia]; [fluvastatin, anorexia]; [Fluvastatin, nausea]; [fluvastatin, nausea]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Fluconazole, agranulocytosis]; [fluconazole, agranulocytosis]; [Fluconazole, thrombocytopenia]; [fluconazole, thrombocytopenia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [epirubicin, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [epirubicine, cardiotoxicity]; [epirubicine, Cardiotoxicity]; [epirubicin, cardiotoxicity]; [epirubicin, Cardiotoxicity]; [epirubicine, heart failure]; [epirubicin, heart failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [etomidate, Myoclonic movements]; [etomidate, myoclonus]",
+        "label": "chemical-induced disease relations: [etomidate, myoclonus]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [yellow phosphorus, acute liver failure]; [yellow phosphorus, hepatotoxicity]; [yellow phosphorus, cholestasis]",
+        "label": "chemical-induced disease relations: [phosphorus, acute hepatitis]; [phosphorus, Cholestatic]; [phosphorus, cholestasis]; [phosphorus, acute liver failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [dexmedetomidine, bradycardia]; [dexmedetomidine, syncope]",
+        "label": "chemical-induced disease relations: [dexmedetomidine, bradycardia]; [dexmedetomidine, Vasovagal syncope]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [lithium, agitation]; [zuclopenthixol, agitation]; [quetiapine, agitation]",
+        "label": "chemical-induced disease relations: [quetiapine, agitation]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [dexamethasone, hypertension]; [Dexamethasone, hypertension]",
+        "label": "chemical-induced disease relations: [dexamethasone, hypertension]; [Dexamethasone, hypertension]; [Dex, hypertension]; [dexamethasone, weight loss]; [Dexamethasone, weight loss]; [Dex, weight loss]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [tranexamic acid, convulsive seizures]",
+        "label": "chemical-induced disease relations: [tranexamic acid, convulsive]; [tranexamic acid, seizures]; [tranexamic acid, seizure]; [tranexamic acid, Generalised and focal seizures]; [tranexamic acid, Convulsive]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [ecstasy, overnight memory consolidation]; [Ecstasy, overnight memory consolidation]; [Ecstasy, memory impairments]; [ecstasy, memory impairments]",
+        "label": "chemical-induced disease relations: [ecstasy, sleep-related impairments]; [Ecstasy, sleep-related impairments]; [ecstasy, Dysfunctional overnight memory]; [ecstasy, impaired overnight memory]; [ecstasy, memory impairments]; [Ecstasy, Dysfunctional overnight memory]; [Ecstasy, impaired overnight memory]; [Ecstasy, memory impairments]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [valproate, delusions]; [Valproate, delusions]; [valproate, confusion]; [Valproate, confusion]; [valproate, auditory hallucinations]; [Valproate, auditory hallucinations]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [pethidine, seizure]; [Pethidine, seizure]",
+        "label": "chemical-induced disease relations: [pethidine, dysmetria]; [Pethidine, dysmetria]; [pethidine, nausea]; [Pethidine, nausea]; [norpethidine, seizure]; [pethidine, dysarthria]; [Pethidine, dysarthria]; [pethidine, vomiting]; [Pethidine, vomiting]; [pethidine, hypotension]; [Pethidine, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [ketoconazole, maculopapular eruption]",
+        "label": "chemical-induced disease relations: [ketoconazole, maculopapular eruption]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pilsicainide, Sudden Cardiac Death]; [pilsicainide, torsades de pointes]",
+        "label": "chemical-induced disease relations: [Pilsicainide, Torsades de Pointes]; [Pilsicainide, torsade de pointes]; [Pilsicainide, torsades de pointes]; [pilsicainide, Torsades de Pointes]; [pilsicainide, torsade de pointes]; [pilsicainide, torsades de pointes]; [Pilsicainide, Sudden Cardiac Death]; [Pilsicainide, sudden cardiac death]; [pilsicainide, Sudden Cardiac Death]; [pilsicainide, sudden cardiac death]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [ATRA, myositis]; [All-trans retinoic acid, inflammatory myositis]; [ATRA, inflammatory myositis]; [All-trans retinoic acid, myositis]",
+        "label": "chemical-induced disease relations: [All-trans retinoic acid, myositis]; [ATRA, myositis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [lomustine, neutropenia]; [cyclophosphamide, neutropenia]; [lomustine, hematologic changes]; [CCNU, neutropenia]; [CCNU, hematologic changes]; [cyclophosphamide, hematologic changes]",
+        "label": "chemical-induced disease relations: [cyclophosphamide, Neutropenia]; [cyclophosphamide, neutropenia]; [CTX, Neutropenia]; [CTX, neutropenia]; [lomustine, Neutropenia]; [lomustine, neutropenia]; [CCNU, Neutropenia]; [CCNU, neutropenia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [nelarabine, neurotoxicity]",
+        "label": "chemical-induced disease relations: [Nelarabine, peripheral neuropathy]; [nelarabine, peripheral neuropathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [valproate, impaired consciousness]; [Valproate, hyperammonemic encephalopathy]; [valproate, hyperammonemic encephalopathy]; [valproate, impaired consciousness]; [Valproate, impaired consciousness]; [Valproate, hyperammonemia]; [valproate, hyperammonemia]",
+        "label": "chemical-induced disease relations: [Valproate, impaired consciousness]; [valproate, impaired consciousness]; [Valproate, hyperammonemic]; [Valproate, hyperammonemia]; [valproate, hyperammonemic]; [valproate, hyperammonemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [dexamethasone, bacterial infections]; [bortezomib, bacterial infections]",
+        "label": "chemical-induced disease relations: [dexamethasone, Necrotising fasciitis]; [dexamethasone, necrotising fasciitis]; [bortezomib, Necrotising fasciitis]; [bortezomib, necrotising fasciitis]; [Bortezomib, Necrotising fasciitis]; [Bortezomib, necrotising fasciitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [DOX, cardiomyopathy]; [doxorubicin, cardiomyopathy]",
+        "label": "chemical-induced disease relations: [doxorubicin, fibrosis]; [DOX, fibrosis]; [doxorubicin, cardiomyopathy]; [DOX, cardiomyopathy]; [doxorubicin, LV dysfunction]; [DOX, LV dysfunction]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [capsaicin, hyperalgesia]; [capsaicin, allodynia]; [glutamate, hyperalgesia]; [glutamate, allodynia]; [capsaicin, pain]; [glutamate, pain]",
+        "label": "chemical-induced disease relations: [capsaicin, hyperalgesia]; [capsaicin, allodynia]; [capsaicin, secondary hyperalgesia]; [capsaicin, hyperalgesic]; [capsaicin, allodynic]; [Capsaicin, hyperalgesia]; [Capsaicin, allodynia]; [Capsaicin, secondary hyperalgesia]; [Capsaicin, hyperalgesic]; [Capsaicin, allodynic]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [dexamethasone, ocular hypertension]; [Dexamethasone, ocular hypertension]",
+        "label": "chemical-induced disease relations: [dexamethasone, glaucoma]; [Dexamethasone, glaucoma]; [dexamethasone, axonal degeneration]; [Dexamethasone, axonal degeneration]; [dexamethasone, ocular hypertension]; [Dexamethasone, ocular hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [morphine, hyperalgesia]",
+        "label": "chemical-induced disease relations: [morphine, hyperalgesia]; [morphine, OIH]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [Dexmedetomidine, bradycardia]; [Dexmedetomidine, hypotension]; [propofol, hypotension]; [propofol, bradycardia]",
+        "label": "chemical-induced disease relations: [propofol, bradycardia]; [dexmedetomidine, hypotension]; [Dexmedetomidine, hypotension]; [dexmedetomidine, bradycardia]; [Dexmedetomidine, bradycardia]; [propofol, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [doxorubicin, cardiovascular disease]; [doxorubicin, cancer]; [Doxorubicin, cardiovascular disease]; [Doxorubicin, cancer]",
+        "label": "chemical-induced disease relations: [doxorubicin, Cardiac disturbances]; [doxorubicin, cardiac disturbances]; [doxorubicin, heart damage]; [Doxorubicin, Cardiac disturbances]; [Doxorubicin, cardiac disturbances]; [Doxorubicin, heart damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [amiodarone, myxoedema coma]",
+        "label": "chemical-induced disease relations: [Amiodarone, myxoedema coma]; [Amiodarone, myxoedema]; [amiodarone, myxoedema coma]; [amiodarone, myxoedema]; [Amiodarone, bradycardia]; [amiodarone, bradycardia]; [Amiodarone, hypothermia]; [amiodarone, hypothermia]; [Amiodarone, respiratory failure]; [amiodarone, respiratory failure]; [Amiodarone, coma]; [amiodarone, coma]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [heparin, thrombocytopenia]; [heparin, thrombosis]; [heparin, HITT]",
+        "label": "chemical-induced disease relations: [heparin, thrombocytopenia]; [heparin, HITT]; [heparin, pulmonary embolism]; [heparin, DVT]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [amphetamine, schizophrenia]; [haloperidol, catalepsy]",
+        "label": "chemical-induced disease relations: [apomorphine, schizophrenia]; [amphetamine, schizophrenia]; [Amphetamine, schizophrenia]; [haloperidol, catalepsy]; [haloperidol, schizophrenia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Citalopram, Torsade de Pointes]; [Amiodarone, Torsade de Pointes]; [Paroxetine, Torsade de Pointes]; [Terfenadine, Torsade de Pointes]",
+        "label": "chemical-induced disease relations: [Citalopram, Torsade de Pointes]; [Citalopram, TdP]; [Terfenadine, Torsade de Pointes]; [Terfenadine, TdP]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [S-23121, ventricular septal defect]; [S-23121, teratogenicity]; [S-23121, teratogenic]; [S-23121, ventricular septal defects]",
+        "label": "chemical-induced disease relations: [S-53482, growth retardation]; [S-23121, growth retardation]; [S-23121, teratogenicity]; [S-23121, teratogenic]; [S-23121, embryolethality]; [S-23121, embryonic death]; [S-53482, embryolethality]; [S-53482, embryonic death]; [S-53482, teratogenicity]; [S-53482, teratogenic]; [S-23121, ventricular septal defects]; [S-23121, ventricular septal defect]; [S-53482, ventricular septal defects]; [S-53482, ventricular septal defect]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Cisplatin, Renal Toxicity]; [cisplatin, nephrotoxicity]; [Cisplatin, nephrotoxicity]; [cisplatin, Renal Toxicity]",
+        "label": "chemical-induced disease relations: [Cisplatin, acute kidney injury]; [Cisplatin, AKI]; [cisplatin, acute kidney injury]; [cisplatin, AKI]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pentylenetetrazole, learning]; [pentylenetetrazole, memory impairments]; [pentylenetetrazole, seizures]; [pentylenetetrazole, cognitive impairment]; [pentylenetetrazole, kindling]",
+        "label": "chemical-induced disease relations: [pentylenetetrazole, learning and memory impairments]; [pentylenetetrazole, memory impairments]; [PTZ, learning and memory impairments]; [PTZ, memory impairments]; [pentylenetetrazole, learning]; [PTZ, learning]; [pentylenetetrazole, Cognitive impairment]; [pentylenetetrazole, cognition deficits]; [pentylenetetrazole, cognitive deficits]; [pentylenetetrazole, cognitive impairment]; [PTZ, Cognitive impairment]; [PTZ, cognition deficits]; [PTZ, cognitive deficits]; [PTZ, cognitive impairment]; [pentylenetetrazole, seizures]; [PTZ, seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Doxorubicin, cardiotoxicity]; [DOX, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [Doxorubicin, heart failure]; [DOX, heart failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Metronidazole, encephalopathy]; [metronidazole, encephalopathy]",
+        "label": "chemical-induced disease relations: [Metronidazole, encephalopathy]; [metronidazole, encephalopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Aconitine, arrhythmia]",
+        "label": "chemical-induced disease relations: [Aconitine, poisoning]; [aconitine, poisoning]; [Aconitine, cardiotoxicity]; [aconitine, cardiotoxicity]; [Aconitine, arrhythmia]; [aconitine, arrhythmia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [isoproterenol, myocardial infarction]; [isoproterenol, cardiac dysfunction]; [isoproterenol, left ventricular dysfunction]; [isoproterenol, acute myocardial infarction]",
+        "label": "chemical-induced disease relations: [isoproterenol, myocardial infarction]; [isoproterenol, acute myocardial infarction]; [Isoproterenol, myocardial infarction]; [Isoproterenol, acute myocardial infarction]; [isoproterenol, left ventricular dysfunction]; [Isoproterenol, left ventricular dysfunction]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [tetrabenazine, Neuroleptic malignant syndrome]; [tiapride, Neuroleptic malignant syndrome]",
+        "label": "chemical-induced disease relations: [tetrabenazine, Neuroleptic malignant syndrome]; [tetrabenazine, neuroleptic malignant syndrome]; [Tetrabenazine, Neuroleptic malignant syndrome]; [Tetrabenazine, neuroleptic malignant syndrome]; [tiapride, Neuroleptic malignant syndrome]; [tiapride, neuroleptic malignant syndrome]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [terbinafine, sinus bradycardia]; [terbinafine, bradycardia]; [metoprolol, sinus bradycardia]; [terbinafine, confusion]; [terbinafine, falls]; [terbinafine, decrease]; [metoprolol, confusion]; [metoprolol, falls]; [metoprolol, decrease]; [metoprolol, sinus bradycardia]",
+        "label": "chemical-induced disease relations: [metoprolol, bradycardia]; [terbinafine, bradycardia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [ethambutol, optic neuropathy]; [ethambutol, peripheral neuropathy]; [Ethambutol, optic neuropathy]; [Ethambutol, peripheral neuropathy]",
+        "label": "chemical-induced disease relations: [ethambutol, polyneuropathy]; [Ethambutol, polyneuropathy]; [ethambutol, visual loss]; [Ethambutol, visual loss]; [ethambutol, optic neuropathy]; [Ethambutol, optic neuropathy]; [ethambutol, paresthesias]; [Ethambutol, paresthesias]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [STZ, memory impairment]; [streptozotocin, memory impairment]",
+        "label": "chemical-induced disease relations: [streptozotocin, memory impairment]; [streptozotocin, impaired the memory]; [STZ, memory impairment]; [STZ, impaired the memory]; [flutamide, memory impairment]; [flutamide, impaired the memory]; [letrozole, memory impairment]; [letrozole, impaired the memory]; [tamoxifen, memory impairment]; [tamoxifen, impaired the memory]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [pilocarpine, seizures]",
+        "label": "chemical-induced disease relations: [pilocarpine, seizures]; [pilocarpine, seizure]; [pilocarpine, status epilepticus]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [tobramycin, acute kidney injury]; [tobramycin, Acute kidney injury]; [tobramycin, AKI]; [vancomycin, acute kidney injury]; [vancomycin, Acute kidney injury]; [vancomycin, AKI]; [gentamicin, acute kidney injury]; [gentamicin, Acute kidney injury]; [gentamicin, AKI]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [simvastatin, rhabdomyolysis]; [telaprevir, Rhabdomyolysis]; [telaprevir, rhabdomyolysis]; [simvastatin, Rhabdomyolysis]",
+        "label": "chemical-induced disease relations: [telaprevir, Rhabdomyolysis]; [telaprevir, rhabdomyolysis]; [Telaprevir, Rhabdomyolysis]; [Telaprevir, rhabdomyolysis]; [simvastatin, Rhabdomyolysis]; [simvastatin, rhabdomyolysis]; [Simvastatin, Rhabdomyolysis]; [Simvastatin, rhabdomyolysis]; [statin, Rhabdomyolysis]; [statin, rhabdomyolysis]; [statins, Rhabdomyolysis]; [statins, rhabdomyolysis]; [simvastatin, muscle toxicity]; [Simvastatin, muscle toxicity]; [statin, muscle toxicity]; [statins, muscle toxicity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [dexamethasone, Peripheral neuropathy]; [dexamethasone, peripheral neuropathy]; [thalidomide, Peripheral neuropathy]; [thalidomide, peripheral neuropathy]; [bortezomib, neutropenia]; [thalidomide, thrombocytopenia]; [bortezomib, thrombocytopenia]; [thalidomide, neutropenia]; [bortezomib, Peripheral neuropathy]; [bortezomib, peripheral neuropathy]; [dexamethasone, thrombocytopenia]; [dexamethasone, neutropenia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [cyclosporine, renal damage]; [cyclosporine, nephropathy]; [SRL, renal damage]; [sirolimus, renal damage]; [sirolimus, nephropathy]",
+        "label": "chemical-induced disease relations: [cyclosporine, nephropathy]; [cyclosporine, Renal lesions]; [cyclosporine, renal impairment]; [cyclosporine, kidney lesions]; [cyclosporine, renal damage]; [cyclosporin A, nephropathy]; [cyclosporin A, Renal lesions]; [cyclosporin A, renal impairment]; [cyclosporin A, kidney lesions]; [cyclosporin A, renal damage]; [CsA, nephropathy]; [CsA, Renal lesions]; [CsA, renal impairment]; [CsA, kidney lesions]; [CsA, renal damage]; [sirolimus, proteinuria]; [SRL, proteinuria]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Cisplatin, acute kidney injury]; [Cisplatin, acute renal injury]; [cisplatin, acute kidney injury]; [cisplatin, acute renal injury]",
+        "label": "chemical-induced disease relations: [cisplatin, acute tubular necrosis]; [Cisplatin, acute tubular necrosis]; [cisplatin, acute renal injury]; [cisplatin, acute kidney injury]; [Cisplatin, acute renal injury]; [Cisplatin, acute kidney injury]; [cisplatin, weight loss]; [Cisplatin, weight loss]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [fluocinolone acetonide, raised intraocular pressure]; [fluocinolone acetonide, increased intraocular pressure]; [fluocinolone acetonide, ocular hypertension]; [fluocinolone acetonide, cataract]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [succinylcholine, myalgia]; [succinylcholine, muscle fasciculation]",
+        "label": "chemical-induced disease relations: [succinylcholine, fasciculation]; [succinylcholine, muscle fasciculation]; [succinylcholine, fasciculations]; [Succinylcholine, fasciculation]; [Succinylcholine, muscle fasciculation]; [Succinylcholine, fasciculations]; [succinylcholine, myalgia]; [Succinylcholine, myalgia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [lithium, NDI]; [lithium, polyuria]; [Lithium, polyuria]; [Lithium, NDI]",
+        "label": "chemical-induced disease relations: [lithium, polyuria]; [Lithium, polyuria]; [lithium, nephrogenic diabetes insipidus]; [lithium, NDI]; [Lithium, nephrogenic diabetes insipidus]; [Lithium, NDI]"
+    },
+    {
+        "pred": "Disease Relations: [dysguesia, amlodipine]; [Dysguesia, Amlodipine]",
+        "label": "chemical-induced disease relations: [Amlodipine, Dysguesia]; [Amlodipine, dysguesia]; [amlodipine, Dysguesia]; [amlodipine, dysguesia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [simvastatin, rhabdomyolysis]; [clarithromycin, rhabdomyolysis]",
+        "label": "chemical-induced disease relations: [clarithromycin, Rhabdomyolysis]; [clarithromycin, rhabdomyolysis]; [Clarithromycin, Rhabdomyolysis]; [Clarithromycin, rhabdomyolysis]; [simvastatin, Rhabdomyolysis]; [simvastatin, rhabdomyolysis]; [statin, Rhabdomyolysis]; [statin, rhabdomyolysis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [suxamethonium, prolonged apnea]; [mivacurium, Butyrylcholinesterase deficiency]; [suxamethonium, Butyrylcholinesterase deficiency]; [suxamethonium, prolonged apnea]; [mivacurium, prolonged apnea]; [suxamethonium, prolonged neuromuscular block]; [mivacurium, prolonged neuromuscular block]",
+        "label": "chemical-induced disease relations: [mivacurium, apnea]; [suxamethonium, apnea]; [mivacurium, Butyrylcholinesterase deficiency]; [suxamethonium, Butyrylcholinesterase deficiency]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [artesunate, anemia]",
+        "label": "chemical-induced disease relations: [artesunate, hemolytic anemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [isoproterenol, myocardial injury]",
+        "label": "chemical-induced disease relations: [isoproterenol, myocardial ischemia]; [isoproterenol, myocardial ischemic injury]; [isoproterenol, ventricular remodeling]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Quetiapine, neutropenia]; [quetiapine, leucopenia]; [Quetiapine, leucopenia]; [Quetiapine, neutropenia]; [clozapine, neutropenia]; [clozapine, blood dyscrasias]; [clozapine, leucopenia]; [Quetiapine, blood dyscrasias]; [quetiapine, neutropenia]; [Quetiapine, leucopenia]; [Quetiapine, blood dyscrasias]",
+        "label": "chemical-induced disease relations: [Quetiapine, neutropenia]; [quetiapine, neutropenia]; [Quetiapine, leucopenia]; [quetiapine, leucopenia]; [Quetiapine, fever]; [quetiapine, fever]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [steroid, LACNP]",
+        "label": "chemical-induced disease relations: [steroid, paresthesia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Maleate, proteinuria]; [maleate, proteinuria]; [Maleate, nephrotoxicity]; [Maleate, nephropathy]; [Maleate, nephrotoxicity]; [maleate, nephropathy]; [maleate, nephrotoxicity]",
+        "label": "chemical-induced disease relations: [maleate, proteinuria]; [Maleate, proteinuria]; [maleate, necrosis]; [Maleate, necrosis]; [maleate, nephrotoxicity]; [maleate, renal injury]; [maleate, kidney injury]; [maleate, nephropathy]; [Maleate, nephrotoxicity]; [Maleate, renal injury]; [Maleate, kidney injury]; [Maleate, nephropathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [diazinon, lung cancer]; [organophosphate, lung cancer]; [Diazinon, lung cancer]; [diazinon, solid tumours]; [organophosphate, solid tumours]; [Diazinon, solid tumours]",
+        "label": "chemical-induced disease relations: [diazinon, lung cancer]; [Diazinon, lung cancer]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Ozone, Parkinson's disease]; [PM2.5, Parkinson's disease]",
+        "label": "chemical-induced disease relations: [particulate matter, Parkinson's Disease]; [particulate matter, Parkinson's disease]; [Ozone, Parkinson's Disease]; [Ozone, Parkinson's disease]; [ozone, Parkinson's Disease]; [ozone, Parkinson's disease]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [caffeine, intrauterine growth retardation]; [caffeine, glomerulosclerosis]",
+        "label": "chemical-induced disease relations: [caffeine, dysplasia of fetal kidneys]; [caffeine, interstitial fibrosis]; [caffeine, intrauterine growth retardation]; [caffeine, IUGR]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [1,3-butadiene, CML]; [1,3-Butadiene, CML]",
+        "label": "chemical-induced disease relations: [1,3-Butadiene, Philadelphia chromosome]; [1,3-butadiene, Philadelphia chromosome]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Metolachlor, liver neoplasms]; [metolachlor, cancer]; [Metolachlor, liver cancer]; [Metolachlor, Cancer]; [metolachlor, Cancer]; [metolachlor, lung cancer]; [Metolachlor, lung cancer]",
+        "label": "chemical-induced disease relations: [metolachlor, follicular cell lymphoma]; [Metolachlor, follicular cell lymphoma]; [metolachor, follicular cell lymphoma]; [metolachlor, liver neoplasms]; [metolachlor, liver cancer]; [Metolachlor, liver neoplasms]; [Metolachlor, liver cancer]; [metolachor, liver neoplasms]; [metolachor, liver cancer]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [iAs, cancer]; [arsenic, cancer]",
+        "label": "chemical-induced disease relations: [inorganic arsenic, cancer]; [iAs, cancer]; [Inorganic As, cancer]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [chloroform, arrhythmia]; [BaCl2, arrhythmia]; [aconitine, arrhythmia]; [adrenaline, arrhythmia]; [strophantine G, arrhythmia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [vitamin E, myopathy]",
+        "label": "chemical-induced disease relations: [Dianabol, muscular dystrophy]; [Dianabol, myodystrophy]; [vitamin E, muscular dystrophy]; [vitamin E, myodystrophy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [warfarin, cerebral hemorrhage]; [warfarin, pulmonary hemorrhage]",
+        "label": "chemical-induced disease relations: [warfarin, cerebral and pulmonary hemorrhage]; [warfarin, hemorrhage]; [warfarin, pulmonary hemorrhage]; [warfarin, cerebral]; [warfarin, stippled epiphyses]; [warfarin, chondrodysplasia punctata]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Isradipine, headache]; [isradipine, headache]; [Isradipine, dizziness]; [isradipine, dizziness]; [Isradipine, flushing]; [isradipine, flushing]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [salbutamol, tremor]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [Caffeine, palpitations]; [Caffeine, tremors]; [Caffeine, restlessness]; [Caffeine, nervousness]; [Caffeine, fear]; [Caffeine, anxiety]; [caffeine, panic disorders.]",
+        "label": "chemical-induced disease relations: [caffeine, tremors]; [Caffeine, tremors]; [caffeine, nausea]; [Caffeine, nausea]; [caffeine, anxiety]; [caffeine, anxiety disorders]; [Caffeine, anxiety]; [Caffeine, anxiety disorders]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [doxorubicin, heart failure]; [cobalt, cardiomyopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [caffeine, clonic seizures]",
+        "label": "chemical-induced disease relations: [caffeine, clonic seizure]; [caffeine, clonic seizures]; [caffeine, tonic seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cyclophosphamide, ureterovesical junction obstruction]; [cyclophosphamide, carcinoma of the urinary bladder]; [cyclophosphamide, carcinoma of the prostate]; [cyclophosphamide, carcinoma of the renal pelvis]; [cyclophosphamide, hydroureteronephrosis]; [cyclophosphamide, carcinoma of the urinary tract]",
+        "label": "chemical-induced disease relations: [cyclophosphamide, hematuria]; [cyclophosphamide, carcinoma]; [cyclophosphamide, carcinomas of the urinary bladder]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [carbetocin, retained placenta]; [Carbetocin, retained placenta]; [carbetocin, vomiting]; [Carbetocin, vomiting]; [carbetocin, blood loss]; [Carbetocin, blood loss]; [carbetocin, abdominal pain]; [Carbetocin, abdominal pain]; [carbetocin, hyper- or hypotension]; [Carbetocin, hyper- or hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [cocaine, chest pain]",
+        "label": "chemical-induced disease relations: [cocaine, chest pain]; [cocaine, Chest pain]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [amiodarone, torsade de pointes]; [Amiodarone, TdP]; [Amiodarone, torsade de pointes]; [amiodarone, TdP]",
+        "label": "chemical-induced disease relations: [Amiodarone, torsade de pointes]; [Amiodarone, TdP]; [amiodarone, torsade de pointes]; [amiodarone, TdP]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [melphalan, Acute renal insufficiency]; [melphalan, acute renal insufficiency]; [melphalan, ARI]; [melphalan, renal injury]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [cocaine, fear]",
+        "label": "chemical-induced disease relations: [cocaine, Impaired fear recognition]; [cocaine, impaired fear recognition]; [cocaine, deficit in fear recognition]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [crack cocaine, Corneal ulcers]; [crack cocaine, corneal ulcers]",
+        "label": "chemical-induced disease relations: [crack cocaine, Corneal ulcers]; [crack cocaine, corneal ulcers]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [phenobarbital, seizures]",
+        "label": "chemical-induced disease relations: [Levetiracetam, lethargy]; [levetiracetam, lethargy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Cocaine, ischemic]; [Cocaine, haemorrhagic]; [cocaine, ischemia]; [heroin, ischemia]; [cocaine, infarction]; [Cocaine, infarction]; [heroin, infarction]; [cocaine, ischemic]; [heroin, ischemic]; [Cocaine, ischemic]; [heroin, haemorrhagic]; [cocaine, haemorrhagic]",
+        "label": "chemical-induced disease relations: [heroin, haemorrhagic infarction of the globus pallidus]; [heroin, infarction of the globus pallidus]; [heroin, globus pallidus infarctions]; [heroin, basal ganglia infarcts]; [cocaine, ischemia of the globus pallidus]; [Cocaine, ischemia of the globus pallidus]; [alcohol, ischemic and haemorrhagic stroke]; [alcohol, ischemic]; [ethanol, ischemic and haemorrhagic stroke]; [ethanol, ischemic]; [alcohol, haemorrhagic stroke]; [ethanol, haemorrhagic stroke]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [methotrexate, Acute renal failure]; [HD-MTX, acute renal failure]; [HD-MTX, Acute renal failure]; [methotrexate, acute renal failure]",
+        "label": "chemical-induced disease relations: [methotrexate, Acute renal failure]; [methotrexate, acute renal failure]; [MTX, Acute renal failure]; [MTX, acute renal failure]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [warfarin, intracerebral hemorrhage]; [warfarin, ICH]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Verapamil, hyperprolactinemia]; [risperidone, hyperprolactinemia]",
+        "label": "chemical-induced disease relations: [risperidone, hyperprolactinemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [fentanyl, catalepsy]; [codeine, catalepsy]; [morphine, cataleptic]; [Codeine, catalepsy]; [Codeine, cataleptic]; [fentanyl, cataleptic]; [morphine, cataleptic]; [naphazoline, catalepsy]; [xylometazoline, catalepsy]",
+        "label": "chemical-induced disease relations: [clonidine, cataleptic]; [clonidine, catalepsy]; [fentanyl, cataleptic]; [fentanyl, catalepsy]; [naphazoline, cataleptic]; [naphazoline, catalepsy]; [codeine, cataleptic]; [codeine, catalepsy]; [codine, cataleptic]; [codine, catalepsy]; [Codeine, cataleptic]; [Codeine, catalepsy]; [xylometazoline, cataleptic]; [xylometazoline, catalepsy]; [morphine, cataleptic]; [morphine, catalepsy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [propranolol, Hypertension]",
+        "label": "chemical-induced disease relations: [propranolol, Hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [oestrogen, endometrial hyperplasia]; [oestrogen, endometrial carcinoma]",
+        "label": "chemical-induced disease relations: [oestrogen, hyperplasia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [diphenylhydantoin, lymphadenopathy]; [diphenylhydantoin, Skin rash]; [diphenylhydantoin, skin rash]; [diphenylhydantoin, Pure red cell aplasia]; [diphenylhydantoin, benign and malignant lymphadenopathy]",
+        "label": "chemical-induced disease relations: [diphenylhydantoin, toxic dermatitis]; [diphenylhydantoin, lymphadenopathy]; [diphenylhydantoin, Pure red cell aplasia]; [diphenylhydantoin, pure red cell aplasia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [carbenicillin, Escherichia coli]; [tobramycin, Escherichia coli]; [tobramycin, Pseudomonas aeruginosa]; [tobramycin, Klebsiella pneumoniae]; [carbenicillin, Klebsiella pneumoniae]; [carbenicillin, Pseudomonas aeruginosa]",
+        "label": "chemical-induced disease relations: [tobramycin, Azotemia]; [tobramycin, azotemia]; [Tobramycin, Azotemia]; [Tobramycin, azotemia]; [carbenicillin, Azotemia]; [carbenicillin, azotemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [EACA, thromboembolic]; [Epsilon aminocaproic acid, thromboembolic]; [EACA, thrombotic]; [Epsilon aminocaproic acid, thrombotic]; [EACA, thrombosis]; [Epsilon aminocaproic acid, thrombotic]; [Epsilon aminocaproic acid, thromboembolic]; [EACA, thrombosis]",
+        "label": "chemical-induced disease relations: [Epsilon aminocaproic acid, subarachnoid hemorrhage]; [Epsilon aminocaproic acid, SAH]; [EACA, subarachnoid hemorrhage]; [EACA, SAH]; [Epsilon aminocaproic acid, acute renal artery thrombosis]; [Epsilon aminocaproic acid, thrombosis of a normal renal artery]; [EACA, acute renal artery thrombosis]; [EACA, thrombosis of a normal renal artery]; [Epsilon aminocaproic acid, thrombotic]; [Epsilon aminocaproic acid, thrombi]; [EACA, thrombotic]; [EACA, thrombi]; [Epsilon aminocaproic acid, intracranial vascular thrombosis]; [EACA, intracranial vascular thrombosis]; [Epsilon aminocaproic acid, hypertension]; [EACA, hypertension]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [propranolol, Growth retardation]; [Propranolol, Growth retardation]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [norepinephrine, autonomic dysfunction]; [propranolol, hypertension]; [norepinephrine, orthostatic hypotension]; [norepinephrine, autonomic dysfunction]; [propranolol, orthostatic hypotension]; [propranolol, hypertension]",
+        "label": "chemical-induced disease relations: [propranolol, hypertension]; [propanolol, hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [etomidate, pain]",
+        "label": "chemical-induced disease relations: [etomidate, myoclonia]; [etomidate, pain]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [fenoterol-hydrobromide, tremor]; [ritodrin-HCl, tremor]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [epinephrine, pupillary abnormalities]; [penicillin, pupillary abnormalities]; [lidocaine, pupillary abnormalities]; [epinephrine, chorioretinal atrophy]; [penicillin, chorioretinal atrophy]; [lidocaine, chorioretinal atrophy]; [epinephrine, superior gaze palsy]; [penicillin, superior gaze palsy]; [lidocaine, superior gaze palsy]",
+        "label": "chemical-induced disease relations: [methylprednisolone acetate, retinal artery and choriocapillaris occlusion]; [methylprednisolone acetate, retinal artery and choriocapillaris occlusions]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cephalothin, hemolytic anemia]; [Cephalothin, hemolytic anemia]",
+        "label": "chemical-induced disease relations: [Cephalothin, hemolytic anemia]; [Cephalothin, hemolytic anemias]; [cephalothin, hemolytic anemia]; [cephalothin, hemolytic anemias]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [L-dopa, hypokalemia]; [L-dopa, Hypokalemia]; [L-Dopa, hypokalemia]",
+        "label": "chemical-induced disease relations: [L-dopa, Hypokalemia]; [L-dopa, hypokalemia]; [L-Dopa, Hypokalemia]; [L-Dopa, hypokalemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [DPH, encephalopathy]; [phenytoin, encephalopathy]; [Phenytoin, encephalopathy]",
+        "label": "chemical-induced disease relations: [Phenytoin, encephalopathy]; [phenytoin, encephalopathy]; [DPH, encephalopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [isoproterenol, myocardial infarction]",
+        "label": "chemical-induced disease relations: [isoproterenol, myocardial infarction]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [dextran, renal failure]; [kanamycin-dextran, acute renal failure]; [kanamycin, acute renal failure]; [dextran, acute renal failure]",
+        "label": "chemical-induced disease relations: [aminoglycoside, acute renal failure]; [kanamycin, acute renal failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [methotrexate, Paraplegia]; [methotrexate, paraplegia]",
+        "label": "chemical-induced disease relations: [methotrexate, Paraplegia]; [methotrexate, paraplegia]; [methothexate, Paraplegia]; [methothexate, paraplegia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [carbachol, tachycardia]; [phentolamine, tachycardia]; [propranolol, tachycardia]",
+        "label": "chemical-induced disease relations: [carbachol, tachycardia]; [carbachol, enlargement of pulse pressure]; [desmethylimipramine, enlargement of pulse pressure]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [caproate, hyperglycemia]; [amino, hyperglycemia]",
+        "label": "chemical-induced disease relations: [amino, Hyperglycemic]; [amino, hyperglycemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [tetracycline, Fatty liver]",
+        "label": "chemical-induced disease relations: [tetracycline, Fatty liver]; [tetracycline, fatty liver]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [vincristine, myeloencephalopathy]; [vincristine, death]; [vincristine, encephalopathy]",
+        "label": "chemical-induced disease relations: [vincristine, sensory and motor dysfunction]; [Vincristine, sensory and motor dysfunction]; [vincristine, myeloencephalopathy]; [vincristine, encephalopathy]; [Vincristine, myeloencephalopathy]; [Vincristine, encephalopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [bupivacaine, arrhythmia]; [Progesterone, arrhythmia]; [bupivacaine, arrhythmia]; [progesterone, arrhythmia]; [Estradiol, arrhythmia]",
+        "label": "chemical-induced disease relations: [bupivacaine, arrhythmic]; [bupivacaine, arrhythmia]; [Estradiol, arrhythmic]; [Estradiol, arrhythmia]; [estradiol, arrhythmic]; [estradiol, arrhythmia]; [Progesterone, arrhythmic]; [Progesterone, arrhythmia]; [progesterone, arrhythmic]; [progesterone, arrhythmia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [desferrioxamine, Acute renal failure]",
+        "label": "chemical-induced disease relations: [desferrioxamine, renal insufficiency]; [DFX, renal insufficiency]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [bromocriptine, hyperprolactinemia]",
+        "label": "chemical-induced disease relations: [bromocriptine, psychiatric symptoms]; [Neuroleptic, amenorrhea]; [neuroleptic medications, amenorrhea]; [neuroleptic, amenorrhea]; [Neuroleptic, oligomenorrhea]; [neuroleptic medications, oligomenorrhea]; [neuroleptic, oligomenorrhea]; [Neuroleptic, hyperprolactinemia]; [neuroleptic medications, hyperprolactinemia]; [neuroleptic, hyperprolactinemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [ethacrynic acid, convulsions]; [ethacrynic acid, convulsive]; [Ethacrynic acid, convulsive]; [Ethacrynic acid, convulsions]",
+        "label": "chemical-induced disease relations: [Ethacrynic acid, convulsions]; [Ethacrynic acid, convulsive]; [ethacrynic acid, convulsions]; [ethacrynic acid, convulsive]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [isoniazide, convulsions]; [isoniazid, convulsions]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [bromocriptine, myocardial infarction]; [Bromocriptine, myocardial infarction]",
+        "label": "chemical-induced disease relations: [bromocriptine, myocardial infarction]; [bromocriptine, Myocardial infarction]; [Bromocriptine, myocardial infarction]; [Bromocriptine, Myocardial infarction]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [carbamazepine, Asterixis]",
+        "label": "chemical-induced disease relations: [lithium, Asterixis]; [lithium, asterixis]; [clozapine, Asterixis]; [clozapine, asterixis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [levodopa, hypotensive]",
+        "label": "chemical-induced disease relations: [levodopa, hypotensive]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [vincristine, Syndrome of inappropriate secretion of antidiuretic hormone]; [vincristine, hyponatremia]; [vincristine, lethargy]; [vincristine, weakness]",
+        "label": "chemical-induced disease relations: [vincristine, Syndrome of inappropriate secretion of antidiuretic hormone]; [vincristine, syndrome of inappropriate secretion of antidiuretic hormone]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [digoxin, Heart failure]; [Digoxin, Heart failure]",
+        "label": "chemical-induced disease relations: [digoxin, arrhythmias]; [Digoxin, arrhythmias]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [rifampin, Intravascular hemolysis]; [rifampin, renal failure]; [rifampin, hemolysis]",
+        "label": "chemical-induced disease relations: [rifampin, acute renal failure]; [rifampin, hemolysis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [zidovudine, hepatitis]; [Zidovudine, hepatitis]",
+        "label": "chemical-induced disease relations: [Zidovudine, hepatitis]; [zidovudine, hepatitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [coumadin, hematomyelia]",
+        "label": "chemical-induced disease relations: [coumadin, Thoracic hematomyelia]; [coumadin, thoracic hematomyelia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [fluoxetine, Mania]; [Fluoxetine, Mania]",
+        "label": "chemical-induced disease relations: [fluoxetine, Mania]; [fluoxetine, mania]; [fluoxetine, hypomania]; [fluoxetine, bipolar disorder]; [Fluoxetine, Mania]; [Fluoxetine, mania]; [Fluoxetine, hypomania]; [Fluoxetine, bipolar disorder]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Gemfibrozil, Myositis]; [gemfibrozil, Myositis]; [lovastatin, Myositis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [corticosteroid, hepatocellular carcinoma]; [androgen, hepatocellular carcinoma]",
+        "label": "chemical-induced disease relations: [corticosteroid, peliosis]; [corticosteroids, peliosis]; [androgen, peliosis]; [androgens, peliosis]; [corticosteroid, Hepatocellular carcinoma]; [corticosteroid, hepatocellular carcinoma]; [corticosteroids, Hepatocellular carcinoma]; [corticosteroids, hepatocellular carcinoma]; [androgen, Hepatocellular carcinoma]; [androgen, hepatocellular carcinoma]; [androgens, Hepatocellular carcinoma]; [androgens, hepatocellular carcinoma]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [N-methyl-D-aspartic acid, hypertension]",
+        "label": "chemical-induced disease relations: [trimethaphan, hypotension]; [trimethaphan, tachycardia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [pilocarpine, status epilepticus]",
+        "label": "chemical-induced disease relations: [pilocarpine, Damage of substantia nigra pars reticulata]; [pilocarpine, lesioned SNR]; [pilocarpine, damage of SNR]; [pilocarpine, status epilepticus]; [pilocarpine, prolonged status epilepticus]; [pilocarpine, neurotransmitter dysfunction]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [DOX, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [doxorubicin, cardiotoxicity]; [DOX, cardiotoxicity]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [capsaicin, burning sensations]",
+        "label": "chemical-induced disease relations: [capsaicin, pain]; [capsaicin, mastitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [amitriptyline, paranoid]; [fluoxetine, paranoid]",
+        "label": "chemical-induced disease relations: [fluoxetine, paranoia]; [fluoxetine, paranoid]; [amitriptyline, paranoia]; [amitriptyline, paranoid]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [diethylcarbamazine, encephalitis]; [DEC, encephalitis]",
+        "label": "chemical-induced disease relations: [diethylcarbamazine, encephalitis]; [DEC, encephalitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [misoprostol, Delirium]; [Misoprostol, headache]; [Misoprostol, delirium]; [Misoprostol, Delirium]; [misoprostol, headache]",
+        "label": "chemical-induced disease relations: [misoprostol, Delirium]; [misoprostol, delirium]; [Misoprostol, Delirium]; [Misoprostol, delirium]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [oxidized and reduced glutathione, reperfusion injury]; [oxidized, reperfusion injury]; [Oxidized glutathione, reperfusion injury]; [GSSG, reperfusion injury]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [cimetidine, hypotension]; [Cimetidine, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Rifampicin, acute renal failure]; [rifampicin, acute renal failure]",
+        "label": "chemical-induced disease relations: [rifampicin, Acute renal failure]; [Rifampicin, Acute renal failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [thiotepa, polyneuropathy]; [TSPA, polyneuropathy]",
+        "label": "chemical-induced disease relations: [cytosine arabinoside, polyneuropathy]; [ara-C, polyneuropathy]; [methotrexate, polyneuropathy]; [MTX, polyneuropathy]; [thiotepa, polyneuropathy]; [TSPA, polyneuropathy]; [cytosine arabinoside, neurologic toxicity]; [cytosine arabinoside, Neurologic toxicities]; [cytosine arabinoside, neurotoxicity]; [ara-C, neurologic toxicity]; [ara-C, Neurologic toxicities]; [ara-C, neurotoxicity]; [methotrexate, neurologic toxicity]; [methotrexate, Neurologic toxicities]; [methotrexate, neurotoxicity]; [MTX, neurologic toxicity]; [MTX, Neurologic toxicities]; [MTX, neurotoxicity]; [thiotepa, neurologic toxicity]; [thiotepa, Neurologic toxicities]; [thiotepa, neurotoxicity]; [TSPA, neurologic toxicity]; [TSPA, Neurologic toxicities]; [TSPA, neurotoxicity]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [pinacidil, hypotension]; [cromakalim, hypotension]; [cromakalim, tachycardia]; [pinacidil, tachycardia]",
+        "label": "chemical-induced disease relations: [cromakalim, hypotension]; [Cromakalim, hypotension]; [pinacidil, tachycardia]; [cromakalim, tachycardia]; [Cromakalim, tachycardia]; [pinacidil, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Mefenamic acid, neutropenia]; [Mefenamic acid, renal failure]; [mefenamic acid, renal failure]; [mefenamic acid, neutropenia]",
+        "label": "chemical-induced disease relations: [Mefenamic acid, neutropenia]; [mefenamic acid, neutropenia]; [Mefenamic acid, renal failure]; [mefenamic acid, renal failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [calcium carbonate, hypercalcemic]; [calcium carbonate, hypercalcemia]",
+        "label": "chemical-induced disease relations: [calcium carbonate, hypercalcemia]; [calcium carbonate, hypercalcemic]; [CaCO3, hypercalcemia]; [CaCO3, hypercalcemic]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Methyldopa, hemolytic anemia]; [methyldopa, hemolytic anemia]",
+        "label": "chemical-induced disease relations: [Methyldopa, hemolytic anemia]; [Methyldopa, hemolytic anemias]; [Aldomet, hemolytic anemia]; [Aldomet, hemolytic anemias]; [methyldopa, hemolytic anemia]; [methyldopa, hemolytic anemias]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [danazol, weight gain]; [danazol, muscle cramps]; [danazol, Menstrual abnormalities]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the:",
+        "label": "chemical-induced disease relations: [chlorhexidine diphosphanilate, pain]; [Chlorhexidine phosphanilate, pain]; [CHP, pain]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Busulfan, seizures]; [busulfan, seizures]; [busulfan, neurotoxicity]; [Busulfan, neurotoxicity]; [Busulfan, neurotoxicity]; [busulfan, neurotoxicity]; [busulfan, seizures]; [Busulfan, seizures]; [busulfan, neurotoxicity]",
+        "label": "chemical-induced disease relations: [busulfan, seizures]; [Busulfan, seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [d-tubocurarine, hypotension]",
+        "label": "chemical-induced disease relations: [d-tubocurarine, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [lindane, convulsions]; [lindane, tonic convulsions]",
+        "label": "chemical-induced disease relations: [lindane, seizures]; [lindane, convulsions]; [Lindane, seizures]; [Lindane, convulsions]; [gamma-hexachlorocyclohexane, seizures]; [gamma-hexachlorocyclohexane, convulsions]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [methimazole, hepatocellular necrosis]; [propylthiouracil, hepatitis]; [methimazole, hepatitis]; [propylthiouracil, hepatocellular necrosis]",
+        "label": "chemical-induced disease relations: [propylthiouracil, lupus-like syndrome]; [methimazole, hepatocellular necrosis]; [propylthiouracil, hepatitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [lithium, seizures]; [pilocarpine, seizures]; [lithium, status epilepticus]; [pilocarpine, status epilepticus]",
+        "label": "chemical-induced disease relations: [pilocarpine, status epilepticus]; [lithium, status epilepticus]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Nifedipine, bradycardia]",
+        "label": "chemical-induced disease relations: [Nifedipine, tachycardia]; [nifedipine, tachycardia]; [Nifedipine, bradycardia]; [nifedipine, bradycardia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [amphetamine, seizures]; [cocaine, death]; [cocaine, seizures]; [amphetamine, death]",
+        "label": "chemical-induced disease relations: [cocaine, seizures]; [amphetamine, seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [diethylstilbesterol, carcinomas]",
+        "label": "chemical-induced disease relations: [diethylstilbesterol, renal carcinomas]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [biperiden, Bradycardia]",
+        "label": "chemical-induced disease relations: [biperiden, Bradycardia]; [biperiden, bradycardia]; [biperiden, dysphagia]; [biperiden, dysarthria]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [labetalol, hypotensive]; [labetalol, hypotension]",
+        "label": "chemical-induced disease relations: [enflurane, hypotension]; [enflurane, hypotensive]; [E, hypotension]; [E, hypotensive]; [isoflurane, hypotension]; [isoflurane, hypotensive]; [I, hypotension]; [I, hypotensive]; [halothane, hypotension]; [halothane, hypotensive]; [H, hypotension]; [H, hypotensive]; [labetalol, hypotension]; [labetalol, hypotensive]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [fluorescein, Convulsion]; [fluorescein, seizures]",
+        "label": "chemical-induced disease relations: [fluorescein, Tonic-clonic seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [ouabain, ventricular tachycardia]; [ouabain, arrhythmia]; [ouabain, arrhythmias]",
+        "label": "chemical-induced disease relations: [ouabain, ventricular tachycardia]; [strophanthidin, arrhythmia]; [strophanthidin, arrhythmias]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Phenytoin, hepatic injury]; [phenytoin, hepatic failure]; [phenytoin, hepatic injury]",
+        "label": "chemical-induced disease relations: [Phenytoin, hepatic failure]; [phenytoin, hepatic failure]; [Phenytoin, drug hypersensitivity]; [phenytoin, drug hypersensitivity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [pertussis vaccine, encephalopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the:; Adrenaline, but not noradrenaline, caused a delayed and protracted pressor effect",
+        "label": "chemical-induced disease relations: [adrenaline, hypertension]; [Adrenaline, hypertension]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [gentamicin, acute renal failure]; [gentamicin, ARF]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [isotretinoin, pseudotumor cerebri]; [isotretinoin, papilledema]; [isotretinoin, photodermatitis]; [isotretinoin, Blepharoconjunctivitis]",
+        "label": "chemical-induced disease relations: [isotretinoin, blurred vision]; [Isotretinoin, blurred vision]; [isotretinoin, corneal opacities]; [Isotretinoin, corneal opacities]; [isotretinoin, papilledema]; [Isotretinoin, papilledema]; [isotretinoin, Blepharoconjunctivitis]; [Isotretinoin, Blepharoconjunctivitis]; [isotretinoin, pseudotumor cerebri]; [Isotretinoin, pseudotumor cerebri]; [isotretinoin, dry eyes]; [Isotretinoin, dry eyes]; [isotretinoin, photodermatitis]; [Isotretinoin, photodermatitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [terbutaline, bronchial asthma]; [Procaterol, bronchial asthma]",
+        "label": "chemical-induced disease relations: [Procaterol, tremorgenic]; [procaterol, tremorgenic]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [isoproterenol, hypertrophy]",
+        "label": "chemical-induced disease relations: [isoproterenol, heart hypertrophy]; [isoproterenol, hypertrophied hearts]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [theophylline, nausea]; [theophylline, vomiting]; [theophylline, tremors]; [oxitropium bromide, nausea]; [oxitropium bromide, vomiting]; [oxitropium bromide, tremors]",
+        "label": "chemical-induced disease relations: [theophylline, tremors]; [theophylline, nausea]; [theophylline, vomiting]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the",
+        "label": "chemical-induced disease relations: [Penicillin, anaphylaxis]; [penicillin, anaphylaxis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [valproic acid, dementia]",
+        "label": "chemical-induced disease relations: [valproic acid, dementia]; [valproic acid, hyperammonemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [scopolamine, amnesia]",
+        "label": "chemical-induced disease relations: [scopolamine, amnesia]; [Scopolamine, amnesia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [cyclophosphamide, cystitis]",
+        "label": "chemical-induced disease relations: [cyclophosphamide, lesions of the urinary bladder]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [suxamethonium, muscle fasciculations]",
+        "label": "chemical-induced disease relations: [suxamethonium, muscle fasciculations]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [isoproterenol, myocardial fibrosis]; [ISO, fibrosis]; [isoproterenol, fibrosis]; [ISO, myocardial fibrosis]",
+        "label": "chemical-induced disease relations: [isoproterenol, fibrosis]; [ISO, fibrosis]; [streptozotocin, diabetic]; [streptozotocin, diabetes]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pilocarpine, seizures]",
+        "label": "chemical-induced disease relations: [phenylbutazone, seizures]; [phenylbutazone, seizure]; [sodium salicylate, seizures]; [sodium salicylate, seizure]; [pilocarpine, seizures]; [pilocarpine, seizure]; [pilocarpine, status epilepticus]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [etoposide, neurologic dysfunction]; [etoposide, confusion]; [etoposide, seizure]; [etoposide, somnolence]",
+        "label": "chemical-induced disease relations: [etoposide, confusion]; [Etoposide, confusion]; [VP-16-213, confusion]; [etoposide, seizure]; [Etoposide, seizure]; [VP-16-213, seizure]; [etoposide, papilledema]; [Etoposide, papilledema]; [VP-16-213, papilledema]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [thiabendazole, jaundice]",
+        "label": "chemical-induced disease relations: [thiabendazole, drug-induced liver damage]; [thiabendazole, Cholestasis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [calcium channel blockers, anorexia]; [calcium channel blocking agents, anorexia]; [calcium channel blockers, dizziness]; [calcium channel blocking agents, dizziness]; [calcium channel blockers, edema]; [calcium channel blocking agents, edema]; [calcium channel blockers, headache]; [calcium channel blocking agents, headache]; [calcium channel blockers, nausea]; [calcium channel blocking agents, nausea]; [calcium channel blockers, flushing]; [calcium channel blocking agents, flushing]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [puromycin, FSGS]; [AMNS, FSGS]; [AMNS, renal failure]; [puromycin, renal failure]; [AMNS, focal segmental glomerular sclerosis]; [AMNS, nephrotic syndrome]; [puromycin, focal segmental glomerular sclerosis]; [puromycin, nephrotic syndrome]; [puromycin, renal failure]; [AMNS, nephrosis]; [AMNS, focal segmental glomerular sclerosis]; [AMNS, renal failure]; [puromycin, FSGS]; [puromycin, nephrosis]; [AMNS, FSGS]; [AMNS, renal disease]; [AMNS, nephrotic syndrome]; [puromycin, renal disease]; [puromycin, FSGS]; [puromycin, nephrosis]; [AMNS, renal failure]; [AMNS, FSGS]; [AMNS, nephrotic syndrome]; [AMNS, renal disease]; [AMNS, FSGS]; [AMNS, nephrosis]; [puromycin, renal disease]; [puromycin, FSGS]; [puromycin, nephrosis]; [AMNS, renal failure]; [AMNS, FSGS]; [AMNS, nephrotic syndrome]; [AMNS, renal disease]; [AMNS, FSGS]; [AMNS, nephrosis]; [puromycin, renal disease]; [puromycin, FSGS]; [puromycin, nephrosis]; [AMNS, renal failure]; [AMNS, FSGS]; [AMNS, nephrotic syndrome]; [AMNS, renal disease]; [AMNS, FSGS]; [AMNS, nephrosis]; [puromycin, renal disease]; [puromycin, FSGS]; [AMNS, renal failure]; [AMNS, FSGS]; [AMNS, nephrotic syndrome]; [AMNS, renal disease]; [AMNS, FSGS]; [AMNS, nephrosis]; [puromycin, renal disease]; [puromycin, FSGS]; [AMNS, renal failure]; [AMNS, FSGS]; [AMNS, nephrotic syndrome]; [AMNS, renal disease]; [AMNS, FSGS]; [AMNS, nephrosis]; [puromycin,",
+        "label": "chemical-induced disease relations: [aminonucleoside, focal segmental glomerular sclerosis]; [aminonucleoside, FSGS]; [puromycin-aminonucleoside, focal segmental glomerular sclerosis]; [puromycin-aminonucleoside, FSGS]; [AMNS, focal segmental glomerular sclerosis]; [AMNS, FSGS]; [aminonucleoside, nephrotic syndrome]; [puromycin-aminonucleoside, nephrotic syndrome]; [AMNS, nephrotic syndrome]; [aminonucleoside, end-stage renal disease]; [puromycin-aminonucleoside, end-stage renal disease]; [AMNS, end-stage renal disease]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Theophylline, seizures]; [Theophylline, neurotoxicity]; [Theophylline, seizures]; [theophylline, neurotoxicity]; [theophylline, seizures]",
+        "label": "chemical-induced disease relations: [aminophylline, seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [indomethacin, Hyperkalemia]; [naproxen, Hyperkalemia]",
+        "label": "chemical-induced disease relations: [mefenamic acid, nephropathy]; [mefenamic acid, renal disease]; [indomethacin, Hyperkalemia]; [indomethacin, hyperkalemia]; [naproxen, hypoaldosteronism]; [naproxen, type IV renal tubular acidosis]; [naproxen, Hyperkalemia]; [naproxen, hyperkalemia]; [indomethacin, hypoaldosteronism]; [indomethacin, type IV renal tubular acidosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [5-fluorouracil, hypotension]; [5-FU, left ventricular dysfunction]; [5-FU, hypotension]; [5-fluorouracil, left ventricular dysfunction]; [CDDP, left ventricular dysfunction]; [CDDP, hypotension]; [cisplatin, left ventricular dysfunction]; [cisplatin, hypotension]",
+        "label": "chemical-induced disease relations: [5-fluorouracil, Hypotension]; [5-fluorouracil, hypotension]; [5-FU, Hypotension]; [5-FU, hypotension]; [5-fluorouracil, left ventricular dysfunction]; [5-FU, left ventricular dysfunction]; [cisplatin, Hypotension]; [cisplatin, hypotension]; [CDDP, Hypotension]; [CDDP, hypotension]; [cisplatin, left ventricular dysfunction]; [CDDP, left ventricular dysfunction]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [carbamazepine, aplastic anemia]",
+        "label": "chemical-induced disease relations: [carbamazepine, aplastic anemia]; [Carbamazepine, aplastic anemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [clonidine, bradycardia]; [clonidine, hypotension]",
+        "label": "chemical-induced disease relations: [clonidine, hypotension]; [clonidine, bradycardia]; [clonidine, bradycardiac]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Imipramine, Hypertension]; [imipramine, neuroblastoma]; [Imipramine, hypertension]; [imipramine, Hypertension]; [Imipramine, hypertension]; [imipramine, neuroblastoma]",
+        "label": "chemical-induced disease relations: [imipramine, Hypertension]; [imipramine, hypertension]; [imipramine, hypertensive]; [Imipramine, Hypertension]; [Imipramine, hypertension]; [Imipramine, hypertensive]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [beclomethasone dipropionate, oral thrush]; [prednisone, hoarseness]; [beclomethasone dipropionate, oral candidiasis]; [prednisone, oral thrush]; [prednisone, Candidiasis]; [beclomethasone dipropionate, Candidiasis]; [beclomethasone dipropionate, hoarseness]; [prednisone, hoarseness]; [beclomethasone dipropionate, oral candidiasis]; [prednisone, oral candidiasis]",
+        "label": "chemical-induced disease relations: [beclomethasone dipropionate, oral candidiasis]; [beclomethasone dipropionate, thrush]; [beclomethasone, oral candidiasis]; [beclomethasone, thrush]; [beclomethasone dipropionate, hoarseness]; [beclomethasone, hoarseness]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [CYA, cardiotoxicity]; [Cyclophosphamide, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [Cyclophosphamide, congestive heart failure]; [Cyclophosphamide, Congestive heart failure]; [cyclophosphamide, congestive heart failure]; [cyclophosphamide, Congestive heart failure]; [CYA, congestive heart failure]; [CYA, Congestive heart failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [aminoglycosides, acute renal failure]",
+        "label": "chemical-induced disease relations: [aminoglycoside, nephrotoxicity]; [aminoglycoside, glomerular or tubular dysfunction]; [aminoglycosides, nephrotoxicity]; [aminoglycosides, glomerular or tubular dysfunction]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [monosodium glutamate, convulsions]; [MSG, convulsions]",
+        "label": "chemical-induced disease relations: [Flurothyl, hypothermia]; [flurothyl, hypothermia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [pilocarpine, motor limbic seizures]; [pilocarpine, convulsive activity]; [pilocarpine, seizures]; [pilocarpine, status epilepticus]",
+        "label": "chemical-induced disease relations: [pilocarpine, seizures]; [pilocarpine, convulsive]; [pilocarpine, convulsions]; [pilocarpine, seizure]; [Pilocarpine, seizures]; [Pilocarpine, convulsive]; [Pilocarpine, convulsions]; [Pilocarpine, seizure]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [dipyridamole, myocardial infarction]",
+        "label": "chemical-induced disease relations: [dipyridamole, myocardial ischemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [methylprednisolone, bradycardia]; [MP, bradycardia]; [methylprednisolone, bradycardia]; [MP, pulse rate]; [MP, pulse rate]",
+        "label": "chemical-induced disease relations: [methylprednisolone, Bradycardia]; [methylprednisolone, bradycardia]; [MP, Bradycardia]; [MP, bradycardia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [carbamazepine, oscillopsia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pentobarbital, cardiac failure]",
+        "label": "chemical-induced disease relations: [pentobarbital, cardiac failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [clonazepam, ataxia]",
+        "label": "chemical-induced disease relations: [Clonazepam, drowsiness]; [clonazepam, drowsiness]; [Clonazepam, ataxia]; [clonazepam, ataxia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [timolol maleate, dizziness]; [timolol-hydrochlorothiazide, dizziness]; [timolol maleate, weakness]; [timolol-hydrochlorothiazide, weakness]; [timolol-hydrochlorothiazide, fatigue]; [timolol maleate, fatigue]; [timolol maleate, weakness]; [timolol-hydrochlorothiazide, fatigue]",
+        "label": "chemical-induced disease relations: [timolol, fatigue]; [timolol maleate, fatigue]; [timolol, dizziness]; [timolol maleate, dizziness]; [hydrochlorothiazide, fatigue]; [hydrochlorothiazide, dizziness]; [hydrochlorothiazide, weakness]; [timolol, weakness]; [timolol maleate, weakness]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Salicylate, hyperbilirubinemia]; [Salicylate, nephropathy]",
+        "label": "chemical-induced disease relations: [aspirin, nephropathy]; [aspirin, renal damage]; [aspirin, deterioration of renal function]; [Aspirin, nephropathy]; [Aspirin, renal damage]; [Aspirin, deterioration of renal function]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Lidocaine, ventricular tachycardia]; [Lidocaine, ventricular fibrillation]; [Lidocaine, ventricular tachycardia]; [Lidocaine, ventricular fibrillation]",
+        "label": "chemical-induced disease relations: [lidocaine, hypotension]; [Lidocaine, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [haloperidol, catalepsy]",
+        "label": "chemical-induced disease relations: [pilocarpine, catalepsy]; [haloperidol, catalepsy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [sodium pentobarbital, Cardiovascular dysfunction]; [barium, hypertension]; [sodium pentobarbital, hypersensitivity]; [sodium pentobarbital, Cardiovascular dysfunction]; [barium, hypertension]; [sodium pentobarbital, hypersensitivity]",
+        "label": "chemical-induced disease relations: [barium chloride, cardiomyopathic disorder]; [barium chloride, hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [PPA, intracerebral hemorrhage]; [phenylpropanolamine, hypertension]; [PPA, hypertension]; [Phenylpropanolamine, intracerebral hemorrhage]; [PPA, intracerebral hemorrhage]; [phenylpropanolamine, intracerebral hemorrhage]",
+        "label": "chemical-induced disease relations: [phenylpropanolamine, hypertension]; [Phenylpropanolamine, hypertension]; [PPA, hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [puromycin aminonucleoside, nephrosis]; [PAN, nephrosis]",
+        "label": "chemical-induced disease relations: [aminonucleoside, proteinuric]; [puromycin aminonucleoside, proteinuric]; [PAN, proteinuric]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [nicotine, seizures]",
+        "label": "chemical-induced disease relations: [nicotine, seizures]; [nicotine, seizure]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [acetaminophen, nephrotoxicity]; [APAP, proximal tubular necrosis]; [APAP, nephrotoxicity]; [acetaminophen, proximal tubular necrosis]",
+        "label": "chemical-induced disease relations: [p-aminophenol, tubular necrosis]; [p-aminophenol, renal tubular necrosis]; [PAP, tubular necrosis]; [PAP, renal tubular necrosis]; [acetaminophen, tubular necrosis]; [acetaminophen, renal tubular necrosis]; [Acetaminophen, tubular necrosis]; [Acetaminophen, renal tubular necrosis]; [APAP, tubular necrosis]; [APAP, renal tubular necrosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Morphine, seizures]; [morphine, seizures]; [morphine sulfate, seizures]",
+        "label": "chemical-induced disease relations: [Morphine, seizures]; [Morphine, convulsions]; [morphine sulfate, seizures]; [morphine sulfate, convulsions]; [morphine, seizures]; [morphine, convulsions]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [vincristine sulfate, leukopenia]",
+        "label": "chemical-induced disease relations: [vincristine sulfate, sepsis]; [vincristine sulfate, leukopenia]; [vincristine sulfate, Pseudomonas infections]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [FZP, convulsions]; [flurazepam, convulsions]",
+        "label": "chemical-induced disease relations: [flurazepam, convulsions]; [FZP, convulsions]; [pentylenetetrazol, convulsions]; [PTZ, convulsions]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [atenolol, tachycardia]; [propranolol, tachycardia]",
+        "label": "chemical-induced disease relations: [isoproterenol, tachycardia]; [Isoproterenol, tachycardia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [conjugated estrogens, Mastodynia]; [conjugated estrogens, mastodynia]; [Premarin, Mastodynia]; [Premarin, mastodynia]; [Medroxyprogesterone acetate, Mastodynia]; [Medroxyprogesterone acetate, mastodynia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [cyclosporine, infections]; [cyclosporine, infection]; [azathioprine, infections]; [azathioprine, infection]; [Aza, infections]; [Aza, infection]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [picrotoxin, seizures]",
+        "label": "chemical-induced disease relations: [picrotoxin, seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Vasopressin, hypertension.]",
+        "label": "chemical-induced disease relations: [DOCA, hypertension]; [DOCA, hypertensive]; [lithium, diabetes insipidus]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [disulfiram, toxic liver damage]; [disulfiram, Toxic hepatitis]",
+        "label": "chemical-induced disease relations: [disulfiram, Toxic hepatitis]; [disulfiram, toxic liver damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [quinacrine hydrochloride, atrial thrombosis]; [Quinacrine hydrochloride, atrial thrombosis]; [sodium nitrite, atrial thrombosis]; [quinacrine hydrochloride, cardiac hypertrophy]; [Quinacrine hydrochloride, cardiac hypertrophy]; [sodium nitrite, cardiac hypertrophy]; [quinacrine hydrochloride, myocardial degeneration]; [Quinacrine hydrochloride, myocardial degeneration]; [sodium nitrite, myocardial degeneration]; [quinacrine hydrochloride, cardiac hypertrophy and dilatation]; [Quinacrine hydrochloride, cardiac hypertrophy and dilatation]; [sodium nitrite, cardiac hypertrophy and dilatation]; [quinacrine hydrochloride, cardiac hypertrophy]; [Quinacrine hydrochloride, myocardial degeneration]; [sodium nitrite, myocardial degeneration]; [quinacrine hydrochloride, myocardial degeneration and dilatation]; [Quinacrine hydrochloride, myocardial degeneration and dilatation]; [sodium nitrite, myocardial degeneration and dilatation]; [quinacrine hydrochloride, myocardial degeneration]; [Quinacrine hydrochloride, cardiac hypertrophy]; [sodium nitrite, myocardial degeneration]; [quinacrine hydrochloride, myocardial degeneration and dilatation]; [Quinacrine hydrochloride, cardiac hypertrophy and dilatation]; [sodium nitrite, myocardial degeneration and dilatation]; [quinacrine hydrochloride, myocardial degeneration]; [Quinacrine hydrochloride, cardiac hypertrophy and dilatation]; [sodium nitrite, myocardial degeneration]; [quinacrine hydrochloride, myocardial degeneration and dilatation]; [Quinacrine hydrochloride, myocardial degeneration]; [sodium nitrite, myocardial degeneration]; [quinacrine hydrochloride, myocardial degeneration and dilatation]; [Quinacrine hydrochloride, cardiac hypertrophy]; [sodium nitrite, myocardial degeneration]; [quinacrine hydrochloride, myocardial degeneration]; [Quinacrine hydrochloride,, myocardial degeneration and dilatation]; [sodium nitrite",
+        "label": "chemical-induced disease relations: [quinacrine hydrochloride, cardiac hypertrophy]; [Quinacrine hydrochloride, cardiac hypertrophy]; [quinacrine hydrochloride, Atrial thrombosis]; [quinacrine hydrochloride, atrial thrombosis]; [Quinacrine hydrochloride, Atrial thrombosis]; [Quinacrine hydrochloride, atrial thrombosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [propranolol, S-A block]",
+        "label": "chemical-induced disease relations: [propranolol, sinoatrial block]; [propranolol, sinoatrial (S-A) block]; [propranolol, S-A block]; [propranolol, Alternating sinus rhythm]; [propranolol, alternating rhythm]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [doxorubicin, nephrotoxicity]; [doxorubicin, cardiotoxicity]; [doxorubicin, hydrothorax]; [doxorubicin, ascites]; [doxorubicin, cardiomyopathy]",
+        "label": "chemical-induced disease relations: [doxorubicin, hydrothorax]; [doxorubicin, Ascites]; [doxorubicin, ascites]; [doxorubicin, albuminuria]; [doxorubicin, Albuminuria]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [timolol, hypotension]; [timolol, bradycardia]; [pilocarpine, hypotension]; [pilocarpine, bradycardia]",
+        "label": "chemical-induced disease relations: [timolol, hypotension]; [timolol, hypotensive]; [timolol maleate, hypotension]; [timolol maleate, hypotensive]; [Timolol, hypotension]; [Timolol, hypotensive]; [pilocarpine, bradycardia]; [pilocarpine nitrate, bradycardia]; [Pilocarpine, bradycardia]; [pilocarpine, hypotension]; [pilocarpine, hypotensive]; [pilocarpine nitrate, hypotension]; [pilocarpine nitrate, hypotensive]; [Pilocarpine, hypotension]; [Pilocarpine, hypotensive]; [timolol, bradycardia]; [timolol maleate, bradycardia]; [Timolol, bradycardia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [succinylcholine, apnoea]",
+        "label": "chemical-induced disease relations: [Succinylcholine, apnoea]; [succinylcholine, apnoea]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [I-131 HA, cardiotoxicity]; [omega-I-131]heptadecanoic acid, cardiotoxicity]; [I-131 HA, cardiotoxicity]; [doxorubicin, cardiotoxicity]; [omega-I-131]heptadecanoic acid, cardiotoxicity]; [doxorubicin, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [doxorubicin, cardiotoxicity]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [SNP, hypotension]; [trimetaphan, hypotension]; [sodium nitroprusside, hypotension]; [nitroprusside, hypotension]",
+        "label": "chemical-induced disease relations: [trimetaphan, hypotension]; [TMP, hypotension]; [sodium nitroprusside, hypotension]; [SNP, hypotension]; [nitroprusside, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [desipramine, neurotoxic]",
+        "label": "chemical-induced disease relations: [D-amphetamine, hyperactivity]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [verapamil, Accelerated junctional rhythms]",
+        "label": "chemical-induced disease relations: [verapamil, Accelerated junctional rhythms]; [verapamil, accelerated junctional rhythms]; [Verapamil, Accelerated junctional rhythms]; [Verapamil, accelerated junctional rhythms]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [hexamethylmelamine, anemia]; [adriamycin, anemia]; [cyclophosphamide, anemia]; [cis-platinum, anemia]",
+        "label": "chemical-induced disease relations: [CPDD, anemia]; [CPDD, nephrotoxicity]; [CPDD, gastrointestinal toxicity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [oral contraceptives, dissecting aneurysm]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thePropylthiouracil-induced hepatic damage.",
+        "label": "chemical-induced disease relations: [Propylthiouracil, chronic active hepatitis]; [propylthiouracil, chronic active hepatitis]; [Propylthiouracil, hepatic damage]; [Propylthiouracil, liver damage]; [propylthiouracil, hepatic damage]; [propylthiouracil, liver damage]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [bepridil, bradycardia]; [Bepridil, bradycardia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [methoxyflurane, renal tubular acidosis]; [methoxyflurane, Hepatitis]",
+        "label": "chemical-induced disease relations: [methoxyflurane, renal tubular acidosis]; [methoxyflurane, Hepatitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [haloperidol, hyperprolactinemia]",
+        "label": "chemical-induced disease relations: [haloperidol, hyperprolactinemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [rifampicin, acute renal failure]",
+        "label": "chemical-induced disease relations: [rifampicin, hemolysis]; [rifampicin, thrombopenia]; [rifampicin, acute tubular necrosis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [sodium nitroprusside, hypotension]; [sodium nitroprusside, Hypotension]; [SNP, hypotension]; [SNP, Hypotension]; [adenosine triphosphate, hypotension]; [adenosine triphosphate, Hypotension]; [Adenosine triphosphate, hypotension]; [Adenosine triphosphate, Hypotension]; [ATP, hypotension]; [ATP, Hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Endografine, abdominal pain]; [Dimer-X, nausea]; [Hexabrix, nausea]; [Hexabrix, dizziness]; [diatrizoate, abdominal pain]; [acetrizoate, dizziness]; [Dimer-X, dizziness]; [diatrizoate, nausea]; [acetrizoate, abdominal pain]; [Vasurix polyvidone, nausea]; [Vasurix polyvidone, abdominal pain]; [acetrizoate, dizziness]; [diatrizoate, dizziness]",
+        "label": "chemical-induced disease relations: [Endografine, abdominal pain]; [Dimer-X, dizziness]; [iocarmate, dizziness]; [Dimer-X, nausea]; [iocarmate, nausea]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [suxamethonium, pains]",
+        "label": "chemical-induced disease relations: [suxamethonium, fasciculations]; [scoline, fasciculations]; [suxamethonium, pains]; [suxamethonium, pain]; [scoline, pains]; [scoline, pain]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [L-norepinephrine, spasm]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the",
+        "label": "chemical-induced disease relations: [quinine, tonic pupillary]; [quinine sulfate, tonic pupillary]; [quinine, amblyopia]; [quinine sulfate, amblyopia]; [quinine, blindness]; [quinine sulfate, blindness]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Suxamethonium, myalgia]; [Suxamethonium, jaw rigidity]; [Suxamethonium, jaw stiffness]",
+        "label": "chemical-induced disease relations: [Suxamethonium, jaw stiffness]; [Suxamethonium, prolonged jaw rigidity]; [suxamethonium, jaw stiffness]; [suxamethonium, prolonged jaw rigidity]; [Suxamethonium, apnoea]; [suxamethonium, apnoea]; [Suxamethonium, myalgia]; [suxamethonium, myalgia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Indomethacin, hyperkalemia]; [indomethacin, hyperkalemia]",
+        "label": "chemical-induced disease relations: [Indomethacin, hyperkalemia]; [indomethacin, hyperkalemia]; [Indomethacin, renal insufficiency]; [indomethacin, renal insufficiency]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [etomidate, respiratory upset]; [etomidate, Venous pain]; [etomidate, disturbing emergence psychoses]; [etomidate, nausea and vomiting]",
+        "label": "chemical-induced disease relations: [Etomidate, Nausea]; [etomidate, Nausea]; [Etomidate, vomiting]; [etomidate, vomiting]; [Etomidate, pain]; [etomidate, pain]; [Etomidate, respiratory upset]; [etomidate, respiratory upset]; [Etomidate, psychoses]; [etomidate, psychoses]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [apomorphine, dyskinesias]; [Levodopa, dyskinesias]",
+        "label": "chemical-induced disease relations: [apomorphine, dyskinesias]; [apomorphine, dystonic dyskinesias]; [apomorphine, choreic mid-dose dyskinesias]; [fluoxetine, dyskinesias]; [fluoxetine, dystonic dyskinesias]; [fluoxetine, choreic mid-dose dyskinesias]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [trimethoprim, liver, blood, skin, and renal disorders]; [trimethoprim, liver]; [trimethoprim, liver disease]; [trimethoprim-sulfamethoxazole, liver, blood, skin, and renal disorders]; [trimethoprim-sulfamethoxazole, liver]; [trimethoprim-sulfamethoxazole, liver disease]; [TMP-SMZ, liver, blood, skin, and renal disorders]; [TMP-SMZ, liver]; [TMP-SMZ, liver disease]; [cephalexin, liver, blood, skin, and renal disorders]; [cephalexin, liver]; [cephalexin, liver disease]; [cephalexin, Stevens-Johnson syndrome]; [cephalexin, toxic epidermal necrolysis]; [trimethoprim-sulfamethoxazole, Stevens-Johnson syndrome]; [trimethoprim-sulfamethoxazole, toxic epidermal necrolysis]; [TMP-SMZ, Stevens-Johnson syndrome]; [TMP-SMZ, toxic epidermal necrolysis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [cocaine, myocardial infarction]; [cocaine, MI]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Paclitaxel, sensory neuropathy]; [Taxol, sensory neuropathy]; [paclitaxel, sensory neuropathy]; [Paclitaxel, hematologic toxicities]; [Taxol, hematologic toxicities]; [paclitaxel, hematologic toxicities]; [Paclitaxel, arthralgia]; [Taxol, arthralgia]; [paclitaxel, arthralgia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [indomethacin, renal dysfunction]; [indomethacin, adverse effects on renal function]",
+        "label": "chemical-induced disease relations: [indomethacin, renal dysfunction]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [angiotensin-converting enzyme inhibitor, angio-oedema]; [Angiotensin-converting enzyme (ACE) inhibitors, angio-oedema]; [ACE inhibitors, angio-oedema]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [lorazepam, Myoclonus]",
+        "label": "chemical-induced disease relations: [lorazepam, Myoclonus]; [lorazepam, myoclonus]; [Lorazepam, Myoclonus]; [Lorazepam, myoclonus]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [carbamazepine, eosinophilic myocarditis]; [carbamazepine, eosinophilic]; [carbamazepine, myocarditis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [cisplatin, vomiting]; [cisplatin, nausea]",
+        "label": "chemical-induced disease relations: [cisplatin, vomiting]; [granisetron, Headache]; [Kytril, Headache]; [Granisetron, Headache]; [cisplatin, nausea]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [clonidine, complete AV block]; [clonidine, hypotension]; [verapamil, complete AV block]; [verapamil, hypotension]",
+        "label": "chemical-induced disease relations: [verapamil, hypotension]; [verapamil, atrioventricular (AV) block]; [verapamil, AV block]; [clonidine, atrioventricular (AV) block]; [clonidine, AV block]; [clonidine, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pentylenetetrazole, convulsions]; [bemegride, clonic convulsions]; [pentylenetetrazole, clonic convulsions]; [bemegride, convulsions]",
+        "label": "chemical-induced disease relations: [picrotoxin, convulsions]; [pentylenetetrazole, convulsions]; [bemegride, convulsions]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [sumatriptan, myocardial infarction]",
+        "label": "chemical-induced disease relations: [sumatriptan, myocardial infarction]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [cocaine, seizures]; [diazepam, death]; [diazepam, seizures]",
+        "label": "chemical-induced disease relations: [diazepam, seizures]; [Flumazenil, seizures]; [flumazenil, seizures]; [cocaine, seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [gentamicin, nephropathy]",
+        "label": "chemical-induced disease relations: [gentamicin, nephropathy]; [gentamicin, tubular damage]; [GM, nephropathy]; [GM, tubular damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Isoproterenol, cardiac hypertrophy]",
+        "label": "chemical-induced disease relations: [Isoproterenol, cardiac hypertrophy]; [Isoproterenol, hypertrophic hearts]; [isoproterenol, cardiac hypertrophy]; [isoproterenol, hypertrophic hearts]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Phe, hypertension]; [phenylephrine, hypertension]; [SN, hypotension]",
+        "label": "chemical-induced disease relations: [phenylephrine, hypertensive]; [phenylephrine, hypertension]; [Phe, hypertensive]; [Phe, hypertension]; [sodium nitroprusside, hypotension]; [SN, hypotension]; [AVP, hypertensive]; [AVP, hypertension]; [arginine vasopressin, hypertensive]; [arginine vasopressin, hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [warfarin, hematoma]; [warfarin, intracerebral hemorrhage]; [warfarin, coagulopathy]",
+        "label": "chemical-induced disease relations: [warfarin, intracerebral hemorrhage]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [doxorubicin, cardiomyopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [fluoxetine, Delirium]; [fluoxetine, delirium]",
+        "label": "chemical-induced disease relations: [fluoxetine, hyperkinetic]; [fluoxetine, Delirium]; [fluoxetine, delirium]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [aracytine, Pulmonary edema]; [Ara-C, diarrhea]; [Ara-C, Pulmonary edema]; [Ara-C, shock]; [aracytine, shock]; [Ara-C, shock]; [aracytine, Pulmonary edema]; [Ara-C, Pulmonary edema]",
+        "label": "chemical-induced disease relations: [aracytine-C, diarrhea]; [Ara-C, diarrhea]; [aracytine-C, fever]; [Ara-C, fever]; [aracytine-C, Pulmonary edema]; [aracytine-C, pulmonary edema]; [Ara-C, Pulmonary edema]; [Ara-C, pulmonary edema]; [aracytine-C, acute renal failure]; [Ara-C, acute renal failure]; [aracytine-C, weight gain]; [Ara-C, weight gain]; [aracytine-C, shock]; [Ara-C, shock]; [aracytine-C, leukocytosis]; [Ara-C, leukocytosis]; [aracytine-C, metabolic acidosis]; [Ara-C, metabolic acidosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [epinephrine, ventricular ischemic lesions]; [epinephrine, fibrosis of the left ventricles]; [epinephrine, cardiac injury]",
+        "label": "chemical-induced disease relations: [epinephrine, cardiomyopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Cocaine, myocardial ischemia]; [cocaine, myocardial ischemia]",
+        "label": "chemical-induced disease relations: [Cocaine, myocardial ischemia]; [cocaine, myocardial ischemia]; [Cocaine, coronary artery spasm]; [cocaine, coronary artery spasm]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Doxorubicin, enlarged]; [doxorubicin, enlarged]; [doxorubicin, hypertrophic]; [Doxorubicin, hypertrophic]; [Doxorubicin, enlarged]; [doxorubicin, enlarged]",
+        "label": "chemical-induced disease relations: [Doxorubicin, cardiotoxicity]; [doxorubicin, cardiotoxicity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Epinephrine, ventricular tachycardia]; [Epinephrine, VT]; [epinephrine, ventricular tachycardia]; [epinephrine, VT]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [calcium carbonate, milk-alkali syndrome]; [calcitriol, milk-alkali syndrome]",
+        "label": "chemical-induced disease relations: [1,25(OH)2D, renal impairment]; [calcitriol, renal impairment]; [sucralfate, peptic ulcer disease]; [calcium, alkalosis]; [alkali, renal impairment]; [alkali, alkalosis]; [calcium carbonate, alkalosis]; [omeprazole, peptic ulcer disease]; [1,25(OH)2D, Milk-alkali syndrome]; [1,25(OH)2D, milk-alkali syndrome]; [1,25(OH)2D, hypercalcemia]; [1,25(OH)2D, hypercalcemic emergency]; [calcitriol, Milk-alkali syndrome]; [calcitriol, milk-alkali syndrome]; [calcitriol, hypercalcemia]; [calcitriol, hypercalcemic emergency]; [alkali, Milk-alkali syndrome]; [alkali, milk-alkali syndrome]; [alkali, hypercalcemia]; [alkali, hypercalcemic emergency]; [1,25(OH)2D, alkalosis]; [calcitriol, alkalosis]; [calcium, Milk-alkali syndrome]; [calcium, milk-alkali syndrome]; [calcium, hypercalcemia]; [calcium, hypercalcemic emergency]; [calcium carbonate, Milk-alkali syndrome]; [calcium carbonate, milk-alkali syndrome]; [calcium carbonate, hypercalcemia]; [calcium carbonate, hypercalcemic emergency]; [calcium carbonate, renal impairment]; [calcium, renal impairment]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [amitriptyline, Encephalopathy]",
+        "label": "chemical-induced disease relations: [amitriptyline, Encephalopathy]; [amitriptyline, encephalopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [DES, hemorrhagic]; [estrogen, pituitary tumors]; [diethylstilbestrol, hemorrhagic]; [DES, pituitary tumors]; [DES, hemorrhagic]; [diethylstilbestrol, hemorrhagic]; [estrogen, hemorrhagic]; [estrogen, pituitary tumors]; [DES, hemorrhagic]; [DES, hemorrhagic]; [diethylstilbestrol, pituitary tumors]",
+        "label": "chemical-induced disease relations: [diethylstilbestrol, pituitary tumors]; [DES, pituitary tumors]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cyclophosphamide, cystitis]; [CYP, cystitis]",
+        "label": "chemical-induced disease relations: [cyclophosphamide, cystitis]; [CYP, cystitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [ISO, myocardial ischemia]; [isoproterenol, myocardial ischemia]",
+        "label": "chemical-induced disease relations: [isoproterenol, myocardial ischemia]; [ISO, myocardial ischemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [PAN, nephropathy]",
+        "label": "chemical-induced disease relations: [puromycin aminonucleoside, nephropathy]; [puromycin aminonucleoside, glomerular disease]; [puromycin aminonucleoside, glomerulopathy]; [puromycin aminonucleoside, renal disease]; [puromycin aminonucleoside, glomerular hypertrophy]; [puromycin aminonucleoside, tubulointerstitial damage]; [PAN, nephropathy]; [PAN, glomerular disease]; [PAN, glomerulopathy]; [PAN, renal disease]; [PAN, glomerular hypertrophy]; [PAN, tubulointerstitial damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [scopolamine, learning]; [apomorphine, learning]; [scopolamine, amnesia]; [apomorphine, amnesia]",
+        "label": "chemical-induced disease relations: [scopolamine, learning and post-training consolidation deficits]; [apomorphine, amnesia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [CO2, hypercapnic]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [hepatitis B surface antigen, hepatitis B]; [HBsAg, hepatitis B]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [oral contraceptives, venous thromboembolism]; [oral contraceptives, VTE]; [OCs, venous thromboembolism]; [OCs, VTE]; [OC, venous thromboembolism]; [OC, VTE]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pilocarpine, seizure]",
+        "label": "chemical-induced disease relations: [pilocarpine, neuronal death]; [Pilocarpine, neuronal death]; [pilocarpine, status epilepticus]; [Pilocarpine, status epilepticus]; [pilocarpine, seizure]; [pilocarpine, tonic and clonic seizure]; [Pilocarpine, seizure]; [Pilocarpine, tonic and clonic seizure]; [MK-801, seizure]; [MK-801, tonic and clonic seizure]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [folinic acid, neutropenia]; [Paclitaxel, neutropenia]; [5-fluorouracil, neutropenia]; [paclitaxel, neutropenia]; [Taxol, neutropenia]",
+        "label": "chemical-induced disease relations: [folinic acid, neutropenia]; [Paclitaxel, neutropenia]; [paclitaxel, neutropenia]; [Taxol, neutropenia]; [5-fluorouracil, neutropenia]; [5-Fluorouracil, neutropenia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [d,l-sotalol, torsades de pointes]",
+        "label": "chemical-induced disease relations: [d,l-sotalol, torsades de pointes]; [d,l-sotalol, Torsades de pointes]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [haloperidol, hyperprolactinemia]",
+        "label": "chemical-induced disease relations: [haloperidol, hyperprolactinemia]; [haloperidol, Hyperprolactinemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [methotrexate, leukoencephalopathy]",
+        "label": "chemical-induced disease relations: [methotrexate, loss of myelination]; [methotrexate, leukoencephalopathy]; [methotrexate, necrosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [ATRA, acute renal failure]; [all-trans-retinoic acid, acute renal failure]",
+        "label": "chemical-induced disease relations: [all-trans-retinoic acid, Thrombotic]; [ATRA, Thrombotic]; [all-trans-retinoic acid, acute renal failure]; [ATRA, acute renal failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cocaine, mania]",
+        "label": "chemical-induced disease relations: [diethylpropion, mania]; [diethylpropion, manic]; [DEP, mania]; [DEP, manic]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [ibuprofen, pain]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [ondansetron, depression disorder]; [ondansetron, major depression disorder]; [ondansetron, depressive episode]; [ondansetron, depression]",
+        "label": "chemical-induced disease relations: [ondansetron, major depression disorder]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [dobutamine, Hypertensive]",
+        "label": "chemical-induced disease relations: [dobutamine, Hypertensive]; [dobutamine, hypertensive]; [dobutamine, hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [albuterol, cardiac dysrhythmias]",
+        "label": "chemical-induced disease relations: [albuterol, cardiac dysrhythmias]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [lithium, hyperosmolar]; [lithium, nonketotic coma]",
+        "label": "chemical-induced disease relations: [lithium, polyuria]; [lithium, polyuric]; [lithium, nephrogenic diabetes insipidus]; [lithium, Hyperosmolar nonketotic coma]; [lithium, hyperosmolar, nonketotic coma]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Cocaine, increase in systolic and mean arterial pressures]; [Cocaine, increase in LV end-diastolic pressure]; [Cocaine, increase in LV end-diastolic volume]; [Cocaine, decrease in LV ejection fraction]; [Cocaine, systolic and mean arterial pressures]; [Cocaine, LV end-systolic volume]; [Cocaine, LV ejection fraction]; [Cocaine, LV systolic and diastolic function]; [Cocaine, LV dP/dt (positive or negative)]; [Cocaine, left ventricular (LV) systolic function]; [Cocaine, LV systolic and diastolic performance]; [Cocaine, left ventricular systolic and diastolic function]; [cocaine, LV ejection fraction]; [cocaine, LV dP/dt (positive or negative)]; [cocaine, LV end-diastolic pressure]; [cocaine, LV ejection fraction]; [cocaine, LV end-systolic volume]; [cocaine, LV systolic and diastolic function]; [cocaine, left ventricular (LV) systolic function]; [cocaine, LV systolic and diastolic performance]",
+        "label": "chemical-induced disease relations: [cocaine, deterioration of left ventricular (LV) systolic function]; [cocaine, deterioration of LV systolic and diastolic performance]; [cocaine hydrochloride, deterioration of left ventricular (LV) systolic function]; [cocaine hydrochloride, deterioration of LV systolic and diastolic performance]; [Cocaine, deterioration of left ventricular (LV) systolic function]; [Cocaine, deterioration of LV systolic and diastolic performance]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [heparin, allergic reactions]",
+        "label": "chemical-induced disease relations: [Heparin, alopecia]; [heparin, alopecia]; [Heparin, osteoporosis]; [heparin, osteoporosis]; [Heparin, thromboembolism]; [heparin, thromboembolism]; [Heparin, thrombocytopenia]; [heparin, thrombocytopenia]; [Heparin, allergic reactions]; [heparin, allergic reactions]; [Heparin, eosinophilia]; [heparin, eosinophilia]; [Heparin, skin reactions]; [heparin, skin reactions]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [indinavir, ureteric obstruction]",
+        "label": "chemical-induced disease relations: [indinavir, ureteric calculi]; [indinavir, ureteric stones or obstruction]; [indinavir, ureteric stones]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [sumatriptan, myocardial infarction]; [sumatriptan, coronary vasospasm]; [sumatriptan, ischemic colitis]; [sumatriptan, myocardial ischemia]",
+        "label": "chemical-induced disease relations: [sumatriptan, Ischemic colitis]; [sumatriptan, ischemic colitis]; [Sumatriptan succinate, Ischemic colitis]; [Sumatriptan succinate, ischemic colitis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [L-DOPA, dyskinesias]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [methylphenidate, neuroleptic malignant syndrome]",
+        "label": "chemical-induced disease relations: [methylphenidate, Neuroleptic malignant syndrome]; [methylphenidate, neuroleptic malignant syndrome]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [EE, cholestasis]; [17alpha-ethinylestradiol, cholestasis]",
+        "label": "chemical-induced disease relations: [17alpha-ethinylestradiol, intrahepatic cholestasis]; [EE, intrahepatic cholestasis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [helodermin, hypotension]; [Glibenclamide, hypotension]; [Helodermin, hypotension]",
+        "label": "chemical-induced disease relations: [acetylcholine, hypotension]; [acetylcholine, Hypotension]; [ACh, hypotension]; [ACh, Hypotension]; [levcromakalim, hypotension]; [levcromakalim, Hypotension]; [helodermin, hypotension]; [helodermin, Hypotension]; [Helodermin, hypotension]; [Helodermin, Hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cyclosporin A, hypertension]; [cyclosporin A, hypertensive]; [cyclosporin A, gingival hyperplasia]",
+        "label": "chemical-induced disease relations: [cyclosporin A, gingival hyperplasia]; [cyclosporin A, hypertension]; [cyclosporin A, hypertensive]; [nifedipine, gingival hyperplasia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [dobutamine, ventricular tachycardia]; [dobutamine, torsade de pointes]",
+        "label": "chemical-induced disease relations: [dobutamine, Torsade de pointes]; [dobutamine, torsade de pointes]; [Dubutamine, Torsade de pointes]; [Dubutamine, torsade de pointes]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [radiographic contrast media, delayed macro-papular rash]; [radiographic contrast media, persistent pain at site of injection]; [radiographic contrast media, dyspnea]; [radiographic contrast media, generalised sensation of heat]",
+        "label": "chemical-induced disease relations: [contrast media, pain]; [contrast materials, pain]; [PRC, pain]; [contrast media, macro-papular rash]; [contrast materials, macro-papular rash]; [PRC, macro-papular rash]; [contrast media, dyspnea]; [contrast materials, dyspnea]; [PRC, dyspnea]; [contrast media, loss of consciousness]; [contrast materials, loss of consciousness]; [PRC, loss of consciousness]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [5-fluorouracil, hyperammonemic encephalopathy]; [5-FU, hyperammonemic encephalopathy]",
+        "label": "chemical-induced disease relations: [5-fluorouracil, hyperammonemic encephalopathy]; [5-fluorouracil, hyperammonemic]; [5-fluorouracil, hyperammonemia]; [5-FU, hyperammonemic encephalopathy]; [5-FU, hyperammonemic]; [5-FU, hyperammonemia]; [5-fluorouracil, encephalopathy]; [5-FU, encephalopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [morphine, hypoactivity]; [morphine, hyperactivity]",
+        "label": "chemical-induced disease relations: [morphine, hyperactivity]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [scopolamine, learning and memory impairment]",
+        "label": "chemical-induced disease relations: [scopolamine, learning and memory impairment]; [scopolamine, memory impairment]; [scopolamine, impairment of learning and memory]; [scopolamine, impairment of]; [scopolamine, learning]; [scopolamine, impairment of learning]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Meloxicam, liver toxicity]; [meloxicam, liver toxicity]",
+        "label": "chemical-induced disease relations: [Meloxicam, hypersensitivity]; [meloxicam, hypersensitivity]; [Meloxicam, liver toxicity]; [Meloxicam, hepatitis]; [Meloxicam, hepatic damage]; [meloxicam, liver toxicity]; [meloxicam, hepatitis]; [meloxicam, hepatic damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [remoxipride, aplastic anemia]; [NCQ344, necrosis]; [remoxipride, aplastic anemia]; [NCQ436, necrosis]; [remoxipride, acquired aplastic anemia]; [NCQ344, apoptosis]; [remoxipride, apoptosis]; [NCQ436, apoptosis]; [NCQ436, acquired aplastic anemia]; [NCQ344, apoptosis]; [NCQ344, acquired aplastic anemia]; [NCQ436, apoptosis]; [NCQ436, aplastic anemia]; [remoxipride, apoptosis]; [remoxipride, acquired aplastic anemia]",
+        "label": "chemical-induced disease relations: [remoxipride, aplastic anemia]; [(S)-(-)-3-bromo-N-[(1-ethyl-2-pyrrolidinyl)methyl]-2,6-dimethoxybenz amide, aplastic anemia]; [benzene, aplastic anemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the:",
+        "label": "chemical-induced disease relations: [haloperidol, catalepsy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [haloperidol, catalepsy]",
+        "label": "chemical-induced disease relations: [haloperidol, catalepsy]; [haloperidol, Catalepsy]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [dobutamine, left ventricular dysfunction]; [Dobutamine, left ventricular dysfunction]; [dobutamine, myocardial stunning]; [Dobutamine, myocardial stunning]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [fenfluramine, pulmonary hypertension]; [fenfluramine, primary pulmonary hypertension]; [fenfluramine, PPH]; [fenfluramines, pulmonary hypertension]; [fenfluramines, primary pulmonary hypertension]; [fenfluramines, PPH]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [heparin, allergic reactions]",
+        "label": "chemical-induced disease relations: [heparin, skin reactions]; [Heparin, skin reactions]; [heparins, skin reactions]; [heparin, allergic reactions]; [Heparin, allergic reactions]; [heparins, allergic reactions]; [heparin, thrombocytopenia]; [heparin, HITT]; [Heparin, thrombocytopenia]; [Heparin, HITT]; [heparins, thrombocytopenia]; [heparins, HITT]; [heparin, hyperkalemia]; [Heparin, hyperkalemia]; [heparins, hyperkalemia]; [heparin, osteoporosis]; [Heparin, osteoporosis]; [heparins, osteoporosis]; [heparin, priapism]; [Heparin, priapism]; [heparins, priapism]; [heparin, hypoaldosteronism]; [Heparin, hypoaldosteronism]; [heparins, hypoaldosteronism]; [heparin, eosinophilia]; [Heparin, eosinophilia]; [heparins, eosinophilia]; [heparin, alopecia]; [Heparin, alopecia]; [heparins, alopecia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [FK506, bilateral optic neuropathy]; [tacrolimus, bilateral optic neuropathy]",
+        "label": "chemical-induced disease relations: [tacrolimus, optic neuropathy]; [tacrolimus, optic nerve toxicity]; [FK506, optic neuropathy]; [FK506, optic nerve toxicity]; [FK 506, optic neuropathy]; [FK 506, optic nerve toxicity]; [Tacrolimus, optic neuropathy]; [Tacrolimus, optic nerve toxicity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [lithium, Hypercalcemia]; [lithium, hypercalcemia]; [lithium, hypercalcemias]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [amphotericin B, nephrotoxicity]",
+        "label": "chemical-induced disease relations: [amphotericin B-sodium deoxycholate, tubular necrosis]; [D-AmB, tubular necrosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [sulfadiazine, renal failure]; [Sulfadiazine, renal failure]; [Sulfadiazine, oliguria]; [sulfadiazine, oliguria]; [sulfadiazine, renal failure]; [Sulfadiazine, oliguria]",
+        "label": "chemical-induced disease relations: [sulfadiazine, renal calculi]; [Sulfadiazine, renal calculi]; [sulfadiazine, acute nephrotoxicity]; [Sulfadiazine, acute nephrotoxicity]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [morphine, dizziness]; [morphine, Downbeat nystagmus]",
+        "label": "chemical-induced disease relations: [morphine, dizziness]; [morphine, Downbeat nystagmus]; [morphine, downbeating nystagmus]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [amiodarone, tachycardia]; [dronedarone, tachycardia]",
+        "label": "chemical-induced disease relations: [isoproterenol, tachycardia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Doxil, hand-foot syndrome]; [liposomal doxorubicin, stomatitis]; [Doxil, stomatitis]; [liposomal doxorubicin, hand-foot syndrome]; [Doxil, diarrhea]; [liposomal doxorubicin, diarrhea]; [liposomal doxorubicin, stomatitis]; [liposomal doxorubicin, hand-foot syndrome]",
+        "label": "chemical-induced disease relations: [doxorubicin, stomatitis]; [Doxil, stomatitis]; [doxorubicin, diarrhea]; [Doxil, diarrhea]; [doxorubicin, erythrodysesthesia]; [doxorubicin, hand-foot syndrome]; [Doxil, erythrodysesthesia]; [Doxil, hand-foot syndrome]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [olanzapine, somnolence]; [Olanzipine, somnolence]; [Olanzapine, somnolence]; [olanzapine, weight gain]; [Olanzipine, weight gain]; [Olanzapine, weight gain]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [tropicamide, pupil dilation]; [tropicamide, Pupillary dilation]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [isotretinoin, Taussig-Bing malformation]; [isotretinoin, anotia]; [isotretinoin, embryopathy]; [isotretinoin, congenital anomalies]",
+        "label": "chemical-induced disease relations: [isotretinoin, Taussig-Bing malformation]; [isotretinoin, anotia]; [isotretinoin, isotretinoin embryopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Methoxamine, cold extremities]; [Methoxamine, headache]",
+        "label": "chemical-induced disease relations: [methoxamine, a significant rise in systolic blood pressure]; [Methoxamine, a significant rise in systolic blood pressure]; [methoxamine, headache]; [Methoxamine, headache]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Lisinopril, renal dysfunction]; [Lisinopril, hypotension]",
+        "label": "chemical-induced disease relations: [Lisinopril, renal dysfunction]; [lisinopril, renal dysfunction]; [Lisinopril, hyperkalemia]; [lisinopril, hyperkalemia]; [Lisinopril, hypotension]; [lisinopril, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Cocaine, ethanol, and cocaethylene, cardiotoxity]",
+        "label": "chemical-induced disease relations: [ethanol, ventricular tachycardia]; [Cocaine, ventricular tachycardia]; [cocaine, ventricular tachycardia]; [cocaethylene, decrease in cardiac output]; [CE, decrease in cardiac output]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the",
+        "label": "chemical-induced disease relations: [veralipride, Parkinsonism]; [veralipride, Parkinson's disease]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Viracept, irregular heartbeat]; [Viracept, bradycardia]",
+        "label": "chemical-induced disease relations: [Viracept, bradycardia]; [Viracept, Bradycardia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [propylthiouracil, fever]; [PTU, fever]; [propylthiouracil, polyarthralgia]; [PTU, polyarthralgia]; [propylthiouracil, oral ulcers]; [PTU, oral ulcers]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [cocaine, coronary artery disease]; [cocaine, coronary artery or myocardial disease]; [cocaine, coronary artery]; [cocaine, myocardial disease]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [isoproterenol, myocardial infarction]",
+        "label": "chemical-induced disease relations: [isoproterenol, myocardial infarction]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [dl-sotalol, torsade de pointes]; [azimilide, torsade de pointes]",
+        "label": "chemical-induced disease relations: [sotalol, long-QT syndrome]; [sotalol, QT prolongation]; [Sotalol, long-QT syndrome]; [Sotalol, QT prolongation]; [sotalol, torsade de pointes]; [sotalol, TdP]; [Sotalol, torsade de pointes]; [Sotalol, TdP]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [cocaine, subependymal cysts]",
+        "label": "chemical-induced disease relations: [cocaine, cysts]; [cocaine, subependymal cysts]; [cocaine, subependymal cyst]; [cocaine, cyst]; [cocaine, preterm infants]; [cocaine, premature (< 36 weeks of gestation) infants]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [thalidomide, neuropathy]; [Thalidomide, neuropathy]",
+        "label": "chemical-induced disease relations: [Thalidomide, peripheral neuropathy]; [thalidomide, peripheral neuropathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [kanamycin, hearing loss]",
+        "label": "chemical-induced disease relations: [kanamycin, hearing loss]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Prednisone, anxiety]",
+        "label": "chemical-induced disease relations: [Prednisone, anxiety]; [Prednisone, Anxiety]; [prednisone, anxiety]; [prednisone, Anxiety]; [PDN, anxiety]; [PDN, Anxiety]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [doxorubicin, neutropenia]; [doxorubicin, neutropenic fever]; [doxorubicin, neutropenic]; [Doxil, neutropenia]; [Doxil, neutropenic fever]; [Doxil, neutropenic]; [doxorubicin, constipation]; [Doxil, constipation]; [carboplatin, neutropenia]; [carboplatin, neutropenic fever]; [carboplatin, neutropenic]; [carboplatin, thrombocytopenia]; [doxorubicin, mucositis]; [Doxil, mucositis]; [carboplatin, emesis]; [doxorubicin, weight loss]; [Doxil, weight loss]; [carboplatin, fatigue]; [doxorubicin, skin reactions]; [Doxil, skin reactions]; [doxorubicin, anemia]; [Doxil, anemia]; [doxorubicin, nausea]; [Doxil, nausea]; [carboplatin, skin reactions]; [carboplatin, constipation]; [doxorubicin, fatigue]; [Doxil, fatigue]; [carboplatin, nausea]; [doxorubicin, emesis]; [Doxil, emesis]; [carboplatin, mucositis]; [carboplatin, weight loss]; [doxorubicin, thrombocytopenia]; [Doxil, thrombocytopenia]; [carboplatin, anemia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [ciprofloxacin, mania]; [ciprofloxacin, antibiomania]; [ciprofloxacin, manic]; [Cotrimoxazole, mania]; [Cotrimoxazole, antibiomania]; [Cotrimoxazole, manic]; [metronidazole, mania]; [metronidazole, antibiomania]; [metronidazole, manic]; [isoniazid, mania]; [isoniazid, antibiomania]; [isoniazid, manic]; [ofloxacin, mania]; [ofloxacin, antibiomania]; [ofloxacin, manic]; [amoxicillin, mania]; [amoxicillin, antibiomania]; [amoxicillin, manic]; [clarithromycin, mania]; [clarithromycin, antibiomania]; [clarithromycin, manic]; [erythromycin, mania]; [erythromycin, antibiomania]; [erythromycin, manic]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Levodopa, dyskinesias]",
+        "label": "chemical-induced disease relations: [Levodopa, ocular dyskinesias]; [levodopa, ocular dyskinesias]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [nitric oxide, myometrial cells]; [NO, myometrial cells]",
+        "label": "chemical-induced disease relations: [glyceryl trinitrate, Headache]; [glyceryl trinitrate, headache]; [GTN, Headache]; [GTN, headache]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [puromycin aminonucleoside, nephrosis]; [PAN, Nephrosis]; [PAN, nephrotic]; [puromycin aminonucleoside, nephrotic]; [puromycin aminonucleoside, Nephrosis]",
+        "label": "chemical-induced disease relations: [puromycin aminonucleoside, proteinuria]; [PAN, proteinuria]; [puromycin aminonucleoside, nephrosis]; [puromycin aminonucleoside, Nephrosis]; [puromycin aminonucleoside, neprotic]; [PAN, nephrosis]; [PAN, Nephrosis]; [PAN, neprotic]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [ibuprofen, Pulmonary hypertension]",
+        "label": "chemical-induced disease relations: [ibuprofen, Pulmonary hypertension]; [ibuprofen, hypoxaemia]; [ibuprofen, Hypoxaemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [vincristine, SIADH]; [vincristine, syndrome of inappropriate secretion of anti-diuretic hormone]; [vincristine, hyponatremia]; [vincristine, Hyponatremia]",
+        "label": "chemical-induced disease relations: [Vincristine, syndrome of inappropriate anti-diuretic hormone]; [Vincristine, syndrome of inappropriate secretion of anti-diuretic hormone]; [Vincristine, SIADH]; [vincristine, syndrome of inappropriate anti-diuretic hormone]; [vincristine, syndrome of inappropriate secretion of anti-diuretic hormone]; [vincristine, SIADH]; [Vincristine, Hyponatremia]; [Vincristine, hyponatremia]; [vincristine, Hyponatremia]; [vincristine, hyponatremia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cyclophosphamide, interstitial cystitis]; [CY, interstitial cystitis]",
+        "label": "chemical-induced disease relations: [cyclophosphamide, haemorrhagic]; [CY, haemorrhagic]; [cyclophosphamide, cystitis]; [CY, cystitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [mitomycin C, HUS]; [5-fluorouracil, HUS]; [folinic acid, HUS]",
+        "label": "chemical-induced disease relations: [folinic acid, vomitus]; [FA, vomitus]; [folinic acid, thrombocytopenia]; [FA, thrombocytopenia]; [mitomycin C, diarrhea]; [MMC, diarrhea]; [folinic acid, stomatitis]; [FA, stomatitis]; [mitomycin C, thrombocytopenia]; [MMC, thrombocytopenia]; [5-fluorouracil, vomitus]; [5-FU, vomitus]; [mitomycin C, leukopenia]; [MMC, leukopenia]; [mitomycin C, hemolytic-uremic syndrome]; [mitomycin C, HUS]; [MMC, hemolytic-uremic syndrome]; [MMC, HUS]; [5-fluorouracil, diarrhea]; [5-FU, diarrhea]; [folinic acid, diarrhea]; [FA, diarrhea]; [5-fluorouracil, hemolytic-uremic syndrome]; [5-fluorouracil, HUS]; [5-FU, hemolytic-uremic syndrome]; [5-FU, HUS]; [5-fluorouracil, stomatitis]; [5-FU, stomatitis]; [5-fluorouracil, leukopenia]; [5-FU, leukopenia]; [5-fluorouracil, thrombocytopenia]; [5-FU, thrombocytopenia]; [folinic acid, leukopenia]; [FA, leukopenia]; [mitomycin C, vomitus]; [MMC, vomitus]; [mitomycin C, stomatitis]; [MMC, stomatitis]; [folinic acid, hemolytic-uremic syndrome]; [folinic acid, HUS]; [FA, hemolytic-uremic syndrome]; [FA, HUS]; [5-fluorouracil, hand-foot syndrome]; [5-FU, hand-foot syndrome]; [folinic acid, hand-foot syndrome]; [FA, hand-foot syndrome]; [mitomycin C, hand-foot syndrome]; [MMC, hand-foot syndrome]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [indinavir, sterile leukocyturia]; [indinavir, hematuria]; [indinavir, nephrotoxicity]; [indinavir, nephrolithiasis]",
+        "label": "chemical-induced disease relations: [indinavir, impaired renal function]; [indinavir, nephrotoxicity]; [indinavir, impairment of the renal function]; [Indinavir, impaired renal function]; [Indinavir, nephrotoxicity]; [Indinavir, impairment of the renal function]; [indinavir, hematuria]; [Indinavir, hematuria]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [cocaine, chest pain]",
+        "label": "chemical-induced disease relations: [cocaine, myocardial infarction]; [cocaine, MI]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [nicergoline, interstitial nephritis]; [nicergoline, AIN]; [nicergoline, acute interstitial nephritis]; [Sermion, interstitial nephritis]; [nicergoline, fever]; [nicergoline, skin rash]; [Sermion, retinal vein occlusion]; [nicergoline, retinal vein occlusion]; [nicergoline, fever]; [nicergoline, arthralgia]; [nicergoline, renal failure]; [nicergoline, skin rash]; [nicergoline, arthralgia]; [nicergoline, renal failure]; [nicergoline, intermittent fever]; [nicergoline, fever]; [nicergoline, eosinophilia]; [nicergoline, arthralgia]; [nicergoline, renal failure]; [nicergoline, intermittent fever]; [nicergoline, skin rash]; [nicergoline, renal failure]; [nicergoline, eosinophilia]; [nicergoline, arthralgia]; [nicergoline, fever]; [nicergoline, renal failure]; [nicergoline, skin rash]; [nicergoline, eosinophilia]; [nicergoline, arthralgia]",
+        "label": "chemical-induced disease relations: [nicergoline, eosinophilia]; [Sermion, eosinophilia]; [nicergoline, renal failure]; [Sermion, renal failure]; [nicergoline, interstitial nephritis]; [nicergoline, AIN]; [Sermion, interstitial nephritis]; [Sermion, AIN]; [nicergoline, fever]; [Sermion, fever]; [nicergoline, arthralgia]; [Sermion, arthralgia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [risperidone, massive intestinal bleeding]; [levomepromazine, massive intestinal bleeding]",
+        "label": "chemical-induced disease relations: [risperidone, Neuroleptic malignant syndrome]; [risperidone, neuroleptic malignant syndrome]; [risperidone, NMS]; [levomepromazine, Neuroleptic malignant syndrome]; [levomepromazine, neuroleptic malignant syndrome]; [levomepromazine, NMS]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Adrenaline, hypertension]; [adrenaline, hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [doxorubicin, cardiomyopathy]; [Carvedilol, cardiomyopathy]; [doxorubicin, mitochondrial dysfunction]; [Carvedilol, mitochondrial dysfunction]; [doxorubicin, mitochondrial dysfunction]; [doxorubicin, cardiomyopathy]; [Carvedilol, cardiomyopathy]",
+        "label": "chemical-induced disease relations: [doxorubicin, cardiomyopathy]; [Doxorubicin, cardiomyopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Cocaine, hyperactivity]; [amphetamine, hyperactivity]; [Cocaine, locomotor activity]; [cocaine, hyperactivity]",
+        "label": "chemical-induced disease relations: [amphetamine, decreased the locomotor activity]; [Cocaine, decreased the locomotor activity]; [cocaine, decreased the locomotor activity]; [DMPX, decreased the locomotor activity]; [3,7-dimethyl-1-propargylxanthine, decreased the locomotor activity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Amiodarone, bradyarrhythmia]; [amiodarone, bradyarrhythmia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Indomethacin, mastocytosis]; [indomethacin, mastocytosis]; [Indomethacin, interstitial cystitis]; [indomethacin, interstitial cystitis]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [thalidomide, rash]; [Thalidomide, rash]",
+        "label": "chemical-induced disease relations: [thalidomide, dizziness]; [Thalidomide, dizziness]; [thalidomide, constipation]; [Thalidomide, constipation]; [thalidomide, rash]; [Thalidomide, rash]; [thalidomide, drowsiness]; [Thalidomide, drowsiness]; [thalidomide, peripheral sensory neuropathy]; [thalidomide, peripheral neuropathy]; [Thalidomide, peripheral sensory neuropathy]; [Thalidomide, peripheral neuropathy]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [levobupivacaine, grand mal seizures]; [Levobupivacaine, grand mal seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [suxamethonium, myotonia]; [suxamethonium, muscle spasms]",
+        "label": "chemical-induced disease relations: [suxamethonium, muscle spasm]; [suxamethonium, muscle spasms]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [pilocarpine, epilepsy]; [pilocarpine, epileptic]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [paracetamol, acute liver failure]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [levodopa, dyskinesias]; [levodopa, akinesia]; [levodopa, drug-induced dyskinesias]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [carboplatin, lipophages]",
+        "label": "chemical-induced disease relations: [carboplatin, abnormal ocular motility]; [carboplatin, fibrosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [ethambutol, optic neuropathy]; [Ethambutol, optic neuropathy]",
+        "label": "chemical-induced disease relations: [Ethambutol, optic neuropathy]; [ethambutol, optic neuropathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [glycopyrrolate, gustatory hyperhidrosis]",
+        "label": "chemical-induced disease relations: [glycopyrrolate, headache]; [glycopyrrolate, sore throat]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the:; [propofol, thrombophlebitis]",
+        "label": "chemical-induced disease relations: [propofol, thrombophlebitis]; [Disoprivan, thrombophlebitis]; [propofol, pain]; [propofol, Pain]; [Disoprivan, pain]; [Disoprivan, Pain]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [vinorelbine, cardiac adverse reactions]; [VNR, cardiac adverse reactions]; [Vinorelbine, cardiac adverse reactions]",
+        "label": "chemical-induced disease relations: [Vinorelbine, cardiotoxic]; [vinorelbine, cardiotoxic]; [VNR, cardiotoxic]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [trimethoprim-sulfomethoxazole, cortical laminar necrosis]",
+        "label": "chemical-induced disease relations: [trimethoprim-sulfomethoxazole, hemolytic anemia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Vigabatrin, visual field defects]; [Vigabatrin, visual field defect]; [Vigabatrin, deterioration in visual field]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [tacrolimus, rosacea]; [tacrolimus, papular rosacea]; [Tacrolimus, rosacea]; [Tacrolimus, papular rosacea]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [methamphetamine, structural deficits]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dopaminergic]; [methamphetamine, deficits in serotonergic systems]; [methamphetamine, structural deficits]; [methamphetamine, cognitive impairment]; [methamphetamine, cerebral metabolic abnormalities]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dopaminergic]; [methamphetamine, deficits in serotonergic systems]; [methamphetamine, structural deficits]; [methamphetamine, cognitive impairment]; [methamphetamine, cerebral metabolic abnormalities]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dopaminergic]; [methamphetamine, deficits in serotonergic systems]; [methamphetamine, structural deficits]; [methamphetamine, cognitive impairment]; [methamphetamine, cerebral metabolic abnormalities]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dopaminergic]; [methamphetamine, deficits in serotonergic systems]; [methamphetamine, structural deficits]; [methamphetamine, cognitive impairment]; [methamphetamine, cerebral metabolic abnormalities]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dopaminergic]; [methamphetamine, deficits in serotonergic systems]; [methamphetamine, structural deficits]; [methamphetamine, cognitive impairment]; [methamphetamine, cerebral metabolic abnormalities]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dopaminergic]; [methamphetamine, deficits in serotonergic systems]; [methamphetamine, structural deficits]; [methamphetamine, cognitive impairment]; [methamphetamine, cerebral metabolic abnormalities]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dopaminergic]; [methamphetamine, deficits in serotonergic systems]; [methamphetamine, structural deficits]; [methamphetamine, cognitive impairment]; [methamphetamine, cerebral metabolic abnormalities]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dopaminergic]; [methamphetamine, deficits in serotonergic systems]; [methamphetamine, structural deficits]; [methamphetamine, cognitive impairment]; [methamphetamine, cerebral metabolic abnormalities]; [methamphetamine, structural brain alterations]; [methamphetamine, structural abnormalities]; [methamphetamine, deficits in dop",
+        "label": "chemical-induced disease relations: [methamphetamine, impaired memory performance]; [MA, impaired memory performance]; [methamphetamine, structural deficits in the human brain]; [methamphetamine, abnormalities in the cortex, hippocampus, white matter, and ventricles]; [methamphetamine, brain injury]; [MA, structural deficits in the human brain]; [MA, abnormalities in the cortex, hippocampus, white matter, and ventricles]; [MA, brain injury]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Amiodarone, hepatomegaly]; [amiodarone, hepatomegaly]; [Amiodarone, hepatocyte microvesicular lipid accumulation]; [amiodarone, hepatocyte microvesicular lipid accumulation]; [Amiodarone, hepatotoxicity]; [amiodarone, hepatotoxicity]; [Amiodarone, decrease in serum triglycerides]; [amiodarone, decrease in serum triglycerides]; [Amiodarone, decrease in serum glucose]; [amiodarone, decrease in serum glucose]",
+        "label": "chemical-induced disease relations: [amiodarone, hepatomegaly]; [Amiodarone, hepatomegaly]; [amiodarone, hepatotoxicity]; [amiodarone, hepatotoxic]; [Amiodarone, hepatotoxicity]; [Amiodarone, hepatotoxic]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [lovastatin, myopathy]",
+        "label": "chemical-induced disease relations: [niacin extended-release/lovastatin, Flushing]; [Niacin extended-release/lovastatin, Flushing]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [isoproterenol, myocardial injury]",
+        "label": "chemical-induced disease relations: [isoproterenol, necrosis]; [isoproterenol, myocardial injury]; [isoproterenol, myocardial damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [droperidol, anxiety]",
+        "label": "chemical-induced disease relations: [droperidol, anxiety]; [droperidol, psychological disturbance]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [lithium, nephrogenic DI]; [Lithium, nephrogenic DI]",
+        "label": "chemical-induced disease relations: [lithium, neurogenic diabetes insipidus]; [lithium, nephrogenic DI]; [lithium, neurogenic DI]; [Lithium, neurogenic diabetes insipidus]; [Lithium, nephrogenic DI]; [Lithium, neurogenic DI]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [ribavirin, hemolytic anemia]; [Ribavirin, hemolytic anemia]; [Interferon, hemolytic anemia]; [interferon-alpha-2b, hemolytic anemia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [adriamycin, mitochondrial injury]; [adriamycin, mitochondrial oxidative damage]; [ADR, mitochondrial injury]; [ADR, mitochondrial oxidative damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [Sotalol, ventricular tachycardia]; [Sotalol, spasm]; [sotalol, ventricular tachycardia]; [Sotalol, coronary spasm]; [sotalol, spasm]; [sotalol, coronary spasm]",
+        "label": "chemical-induced disease relations: [Sotalol, coronary spasm]; [Sotalol, Coronary vasospasm]; [sotalol, coronary spasm]; [sotalol, Coronary vasospasm]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [haloperidol, catalepsy]; [apomorphine, catalepsy]",
+        "label": "chemical-induced disease relations: [apomorphine, catalepsy]; [haloperidol, catalepsy]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [levodopa, dyskinesia]; [levodopa, dyskinetic]; [levodopa, Dyskinetic]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [gentamicin, tubulointerstitial nephritis]",
+        "label": "chemical-induced disease relations: [gentamicin, tubulointerstitial nephritis]; [Gentamicin, tubulointerstitial nephritis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [olanzapine, insulin sensitivity]; [olanzapine, insulin resistance]; [clozapine, insulin sensitivity]; [clozapine, insulin resistance]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [phenylephrine, hypertension]",
+        "label": "chemical-induced disease relations: [phenylephrine, hypertension]; [phenylephrine, hypertensive]; [phenylephrine, HTN]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [warfarin, hemorrhage]; [warfarin, bleeding]; [warfarin, hemorrhages]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [celecoxib, angioedema]; [Celecoxib, angioedema]; [CE, angioedema]; [acetaminophen, skin reactions]; [acetaminophen, cutaneous reactions]; [paracetamol, skin reactions]; [paracetamol, cutaneous reactions]; [Acetaminophen, skin reactions]; [Acetaminophen, cutaneous reactions]; [P, skin reactions]; [P, cutaneous reactions]; [nimesulide, skin reactions]; [nimesulide, cutaneous reactions]; [Nimesulide, skin reactions]; [Nimesulide, cutaneous reactions]; [N, skin reactions]; [N, cutaneous reactions]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [aspirin, end-stage renal disease]",
+        "label": "chemical-induced disease relations: [aspirin, end-stage renal disease]; [aspirin, ESRD]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [amisulpride, QT prolongation]; [amisulpride, hypocalcaemia]",
+        "label": "chemical-induced disease relations: [amisulpride, prolonged QT syndrome]; [amisulpride, QT prolongation]; [amisulpride, hypocalcaemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pilocarpine, chronic epileptic]; [cycloheximide, chronic epileptic]",
+        "label": "chemical-induced disease relations: [pilocarpine, status epilepticus]; [Pilo, status epilepticus]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [pentylenetetrazole, anxiety]; [caffeine, anxiety]",
+        "label": "chemical-induced disease relations: [pentylenetetrazole, anxiety]; [caffeine, anxiety]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [progestogens, gallbladder disease]; [oestrogens, dementia]; [oestrogen, dementia]; [oestrogens, venous thromboembolism]; [oestrogen, venous thromboembolism]; [oestrogens, cardiovascular disease]; [oestrogen, cardiovascular disease]; [oestrogens, gallbladder disease]; [oestrogen, gallbladder disease]; [progestogens, venous thromboembolism]; [oestrogens, stroke]; [oestrogen, stroke]; [progestogens, cardiovascular disease]; [progestogens, breast cancer]; [progestogens, stroke]; [progestogens, dementia]; [oestrogens, breast cancer]; [oestrogen, breast cancer]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [amoxicillin-clavulanate, Drug-induced liver injury]; [amoxicillin-clavulanate, drug-induced liver injury]; [amoxicillin-clavulanate, DILI]; [amoxicillin-clavulanate, liver damage]; [Amoxicillin-clavulanate, Drug-induced liver injury]; [Amoxicillin-clavulanate, drug-induced liver injury]; [Amoxicillin-clavulanate, DILI]; [Amoxicillin-clavulanate, liver damage]; [amoxicillin-clavulanate, jaundice]; [Amoxicillin-clavulanate, jaundice]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [adriamycin, cardiotoxicity]; [Adriamycin, cardiac toxicity]; [Adriamycin, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [adriamycin, myocardiopathy]; [Adriamycin, myocardiopathy]; [ADR, myocardiopathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [VCM, nephrotoxicity]; [vancomycin, nephrotoxicity]",
+        "label": "chemical-induced disease relations: [vancomycin, nephrotoxicity]; [vancomycin, renal impairment]; [vancomycin, renal tubular injury]; [vancomycin, kidney damage]; [VCM, nephrotoxicity]; [VCM, renal impairment]; [VCM, renal tubular injury]; [VCM, kidney damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [domperidone, RLS]; [mirtazapine, RLS]",
+        "label": "chemical-induced disease relations: [mirtazapine, restless legs syndrome]; [mirtazapine, RLS]; [Mirtazapine, restless legs syndrome]; [Mirtazapine, RLS]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [cyproterone acetate, coronary heart disease]",
+        "label": "chemical-induced disease relations: [cyproterone acetate, hyperglyceridemic effect]; [CPA, hyperglyceridemic effect]; [cyproterone acetate, coronary arterial disease]; [cyproterone acetate, coronary arteriosclerosis]; [CPA, coronary arterial disease]; [CPA, coronary arteriosclerosis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [5-fluorouracil, Cardiotoxicity]; [5-FU, cardiotoxicity]; [5-Fluorouracil, cardiotoxicity]",
+        "label": "chemical-induced disease relations: [5-Fluorouracil, precordial pain]; [5-fluorouracil, precordial pain]; [5-FU, precordial pain]; [5-Fluorouracil, right bundle branch block]; [5-fluorouracil, right bundle branch block]; [5-FU, right bundle branch block]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [DOX, cardiotoxicity]; [doxorubicin, cardiotoxicity]; [DOX, cardiac damage]; [doxorubicin, cardiac damage]",
+        "label": "chemical-induced disease relations: [doxorubicin, cardiomyocyte damage]; [DOX, cardiomyocyte damage]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [bepridil, QT prolongation]; [Bepridil hydrochloride, QT prolongation]; [Bpd, QT prolongation]; [bepridil, torsade de pointes]; [bepridil, Tdp]; [Bepridil hydrochloride, torsade de pointes]; [Bepridil hydrochloride, Tdp]; [Bpd, torsade de pointes]; [Bpd, Tdp]; [bepridil, bradycardia]; [Bepridil hydrochloride, bradycardia]; [Bpd, bradycardia]; [bepridil, dizziness]; [Bepridil hydrochloride, dizziness]; [Bpd, dizziness]; [bepridil, fatigue]; [Bepridil hydrochloride, fatigue]; [Bpd, fatigue]; [potassium, torsade de pointes]; [potassium, Tdp]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Iso, LV hypertrophy]; [isoproterenol, cardiac hypertrophy]; [Iso, cardiac hypertrophy]",
+        "label": "chemical-induced disease relations: [isoproterenol, cardiac hypertrophy]; [isoproterenol, LV hypertrophy]; [Iso, cardiac hypertrophy]; [Iso, LV hypertrophy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [methadone, Long QT syndrome]",
+        "label": "chemical-induced disease relations: [methadone, long QT syndrome]; [methadone, QT interval prolongation]; [methadone, QT prolongation]; [methadone, Long QT syndrome]; [Methadone, long QT syndrome]; [Methadone, QT interval prolongation]; [Methadone, QT prolongation]; [Methadone, Long QT syndrome]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [LNNA, hypertension]; [nitric oxide, hypertension]",
+        "label": "chemical-induced disease relations: [nitric oxide, hypertension]; [nitric oxide, hypertensive]; [NO, hypertension]; [NO, hypertensive]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [chlorpromazine, extrapyramidal syndrome]; [chlorpromazine, EPS]",
+        "label": "chemical-induced disease relations: [chlorpromazine, extrapyramidal syndrome]; [chlorpromazine, Extrapyramidal syndrome]; [chlorpromazine, EPS]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pilocarpine, seizures]",
+        "label": "chemical-induced disease relations: [pilocarpine, seizures]; [pilocarpine, status epilepticus]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [dopamine, stroke]",
+        "label": "chemical-induced disease relations: [pergolide, impairs associative learning]; [pergolide, impaired novel word learning]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Minocycline, polyarteritis nodosa]; [minocycline, polyarteritis nodosa]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [HBeAg, hepatitis B]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [picrotoxin, seizures]",
+        "label": "chemical-induced disease relations: [picrotoxin, seizures]; [picrotoxin, seizure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [diclofenac, renal injury]; [anthraquinone, renal injury]; [anthraquinones, Nephropathy]; [anthraquinone, Nephropathy]; [anthraquinones, acute renal failure]; [rhizoma rhei, renal injury]; [aristolochic acids, Nephropathy]; [aristolochic acids, renal injury]; [rhizoma rhei, acute renal failure]; [diclofenac, acute renal failure]; [anthraquinone, acute renal failure]; [rhizoma rhei, Nephropathy]; [rhizoma rhei, renal injury]",
+        "label": "chemical-induced disease relations: [diclofenac, Acute renal failure]; [diclofenac, acute renal failure]; [diclofenac, renal injury]; [Chinese herbal, Acute renal failure]; [Chinese herbal, acute renal failure]; [Chinese herbal, renal injury]; [Chinese herbs, Acute renal failure]; [Chinese herbs, acute renal failure]; [Chinese herbs, renal injury]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [ifosfamide, nephropathy]; [CAA, nephropathy]; [Chloroacetaldehyde, nephropathy]",
+        "label": "chemical-induced disease relations: [ifosfamide, nephropathy]; [ifosfamide, renal damage]; [IFO, nephropathy]; [IFO, renal damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [pilocarpine, seizures]",
+        "label": "chemical-induced disease relations: [pilocarpine, temporal lobe epilepsy]; [pilocarpine, status epilepticus]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [galantamine, headaches]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [risperidone, Extrapyramidal symptom]; [olanzapine, weight gain]; [Olanzapine, weight gain]; [olanzapine, Extrapyramidal symptom]; [Olanzapine, Extrapyramidal symptom]; [risperidone, weight gain]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [hydroxychloroquine, visual field loss]; [hydroxychloroquine, visual field abnormalities]; [hydroxychloroquine, visual field defects]; [hydroxychloroquine sulfate, visual field loss]; [hydroxychloroquine sulfate, visual field abnormalities]; [hydroxychloroquine sulfate, visual field defects]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [epirubicin, bradycardic]; [paclitaxel, bradycardic]",
+        "label": "chemical-induced disease relations: [cyclophosphamide, atrioventricular block]; [paclitaxel, atrioventricular block]; [Taxol, atrioventricular block]; [epirubicin, atrioventricular block]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [naproxen, acute myocardial infarction]; [naproxen, AMI]; [non-steroidal anti-inflammatory drugs, GI bleeding]; [rofecoxib, GI bleeding]; [naproxen, GI bleeding]; [COX-2 inhibitors, acute myocardial infarction]; [COX-2 inhibitors, AMI]; [rofecoxib, acute myocardial infarction]; [rofecoxib, AMI]; [non-steroidal anti-inflammatory drugs, acute myocardial infarction]; [non-steroidal anti-inflammatory drugs, AMI]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [quinine, arrhythmia]; [quinidine, arrhythmia]; [Quinine, arrhythmia]",
+        "label": "chemical-induced disease relations: [Quinine, premature ventricular contraction]; [Quinine, PVC]; [quinine, premature ventricular contraction]; [quinine, PVC]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [penicillamine, lichenoid dermatitis]",
+        "label": "chemical-induced disease relations: [Penicillamine, lichenoid dermatitis]; [penicillamine, lichenoid dermatitis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [oxygen, drop in blood pressure]; [GTN, drop in blood pressure]; [glyceryl trinitrate, drop in blood pressure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cytarabine, cerebral vasospasm]; [cytarabine, encephalopathy]",
+        "label": "chemical-induced disease relations: [cytarabine, cerebral vasospasm]; [Vincristine, cerebral vasospasm]; [Vincristine, weakness]; [dexamethasone, weakness]; [cytarabine, aphasia]; [PEG-asparaginase, visual hallucinations]; [polyethylene glycol-asparaginase, visual hallucinations]; [cytarabine, visual hallucinations]; [dexamethasone, aphasia]; [cytarabine, incontinence]; [PEG-asparaginase, weakness]; [polyethylene glycol-asparaginase, weakness]; [PEG-asparaginase, incontinence]; [polyethylene glycol-asparaginase, incontinence]; [dexamethasone, incontinence]; [Vincristine, aphasia]; [Vincristine, visual hallucinations]; [dexamethasone, visual hallucinations]; [Vincristine, incontinence]; [cytarabine, weakness]; [PEG-asparaginase, aphasia]; [polyethylene glycol-asparaginase, aphasia]; [PEG-asparaginase, cerebral vasospasm]; [polyethylene glycol-asparaginase, cerebral vasospasm]; [dexamethasone, cerebral vasospasm]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [valsartan, BP]; [hydrochlorothiazide, BP]",
+        "label": "chemical-induced disease relations: [hydrochlorothiazide, hypokalemia]; [HCTZ, hypokalemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Succimer, cognitive impairment]",
+        "label": "chemical-induced disease relations: [Succimer, cognitive impairment]; [Succimer, cognitive and affective dysfunction]; [Succimer, cognitive]; [Succimer, cognitive deficits]; [succimer, cognitive impairment]; [succimer, cognitive and affective dysfunction]; [succimer, cognitive]; [succimer, cognitive deficits]; [lead, impairments in learning, attention, inhibitory control, and arousal regulation]; [lead, impairments in learning]; [Pb, impairments in learning, attention, inhibitory control, and arousal regulation]; [Pb, impairments in learning]; [lead, impairments in]; [Pb, impairments in]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Caffeine, panic disorder]; [Caffeine, depression]; [Caffeine, panic attacks]",
+        "label": "chemical-induced disease relations: [Caffeine, panic disorder]; [Caffeine, panic attacks]; [Caffeine, PD]; [Caffeine, MDP]; [Caffeine, panic attack]; [caffeine, panic disorder]; [caffeine, panic attacks]; [caffeine, PD]; [caffeine, MDP]; [caffeine, panic attack]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [propranolol, failing left ventricle]; [propranolol, heart failure]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [piperacillin, encephalopathy]; [Piperacillin, seizure]; [Piperacillin, seizure]; [Piperacillin, encephalopathy]; [piperacillin, seizure]",
+        "label": "chemical-induced disease relations: [Piperacillin/tazobactam, confusion]; [piperacillin/tazobactam, confusion]; [Piperacillin/tazobactam, tonic-clonic seizure]; [Piperacillin/tazobactam, GTCS]; [piperacillin/tazobactam, tonic-clonic seizure]; [piperacillin/tazobactam, GTCS]; [Piperacillin/tazobactam, tremor]; [piperacillin/tazobactam, tremor]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [prilocaine, vocal cord paralysis]; [prilocaine, vocal nerve palsies]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [BCNU, Cortical dysplasia]",
+        "label": "chemical-induced disease relations: [BCNU, cortical dysplasia]; [BCNU, Cortical dysplasia]; [carmustine, cortical dysplasia]; [carmustine, Cortical dysplasia]; [1,3-bis (2-chloroethyl)-1-nitrosoure, cortical dysplasia]; [1,3-bis (2-chloroethyl)-1-nitrosoure, Cortical dysplasia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [lithium, seizures]; [pilocarpine, seizures]",
+        "label": "chemical-induced disease relations: [pilocarpine, seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [aspirin, acute renal failure]; [NSAIDs, ATIN]; [non-steroidal anti-inflammatory drugs, acute interstitial nephritis]; [NSAIDs, acute renal failure]; [aspirin, ATIN]; [aspirin, acute interstitial nephritis]; [NSAIDs, acute renal failure]; [NSAIDs, ATIN]",
+        "label": "chemical-induced disease relations: [ibuprofen, acute renal failure]; [ibuprofen, interstitial nephritis]; [ibuprofen, tubulo-interstitial injury]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [Rifampicin, Segmental necrotising glomerulonephritis]; [rifampicin, Segmental necrotising glomerulonephritis]",
+        "label": "chemical-induced disease relations: [Rifampicin, acute renal failure]; [rifampicin, acute renal failure]; [Rifampicin, glomerulonephritis]; [rifampicin, glomerulonephritis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [HBeAg, chronic hepatitis B virus infection]; [HBeAg, chronic hepatitis B]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [fluoxetine, hypertension]",
+        "label": "chemical-induced disease relations: [fluoxetine, retinal vein occlusion]; [fluoxetine, hypertension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the: [bupivacaine, pain]",
+        "label": "chemical-induced disease relations: [bupivacaine, inflammation]; [bupivacaine, postoperative pain]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cyclophosphamide, cystitis]",
+        "label": "chemical-induced disease relations: [cyclophosphamide, cystitis]; [cyclophosphamide, urinary bladder inflammation]; [cyclophosphamide, bladder inflammation]; [CYP, cystitis]; [CYP, urinary bladder inflammation]; [CYP, bladder inflammation]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [azathioprine, anemia]; [Azathioprine, anemia]",
+        "label": "chemical-induced disease relations: [Azathioprine, anemia]; [azathioprine, anemia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [bupivacaine, hypotension]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [d4T, peripheral neuropathy]; [nevirapine, rash]; [NVP, rash]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Thalidomide, cramps]; [thalidomide, cramps]; [Thalidomide, sensory neurotoxicity]; [Thalidomide, sensory axonal neuropathy]; [thalidomide, sensory neurotoxicity]; [thalidomide, sensory axonal neuropathy]; [Thalidomide, paresthesias]; [thalidomide, paresthesias]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Amiodarone, pulmonary mass]; [Amiodarone, lung mass]; [Amiodarone, pulmonary lesion]; [amiodarone, pulmonary mass]; [amiodarone, lung mass]; [amiodarone, pulmonary lesion]; [Amiodarone, membranous glomerulonephritis]; [amiodarone, membranous glomerulonephritis]; [Amiodarone, hemosiderin]; [Amiodarone, hemosiderotic]; [amiodarone, hemosiderin]; [amiodarone, hemosiderotic]"
+    },
+    {
+        "pred": "chemical-induced disease relations in thetext: [sulphonylurea, coronary artery disease]",
+        "label": "chemical-induced disease relations: [glibenclamide, coronary artery disease]; [glibenclamide, CAD]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [adriamycin, nephropathy]; [ADR, focal segmental glomerulosclerosis]; [ADR, nephropathy]; [adriamycin, focal segmental glomerulosclerosis]",
+        "label": "chemical-induced disease relations: [adriamycin, uraemia]; [ADR, uraemia]; [adriamycin, focal segmental glomerulosclerosis]; [ADR, focal segmental glomerulosclerosis]; [adriamycin, proteinuria]; [ADR, proteinuria]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [tranexamic acid, renal failure]; [tranexamic acid, seizures]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [propranolol, cardiac arrhythmias]; [adrenaline, cardiac arrhythmias]",
+        "label": "chemical-induced disease relations: [halothane, cardiac arrhythmias]; [halothane, arrhythmias]; [ouabain, ventricular tachycardia]; [adrenaline, cardiac arrhythmias]; [adrenaline, arrhythmias]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Topotecan, neutropenia]; [topotecan, neutropenia]; [Topotecan, lymphopenia]; [topotecan, lymphopenia]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [lithium, Primary hyperparathyroidism]; [lithium, hyperparathyroidism]",
+        "label": "chemical-induced disease relations: [lithium, hyperparathyroidism]; [lithium, hypercalcemia]; [lithium, hypercalcemic]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [propofol, Hemorrhage]; [remifentanil, Hemorrhage]",
+        "label": "chemical-induced disease relations: [propofol, hypotension]; [remifentanil, hypotension]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [VPA, nonalcoholic fatty liver disease]; [VPA, obesity]; [valproate, Nonalcoholic fatty liver disease]",
+        "label": "chemical-induced disease relations: [valproate, obesity]; [Valproic acid, obesity]; [VPA, obesity]; [valproate, hyperinsulinemia]; [Valproic acid, hyperinsulinemia]; [VPA, hyperinsulinemia]; [valproate, Nonalcoholic fatty liver disease]; [valproate, nonalcoholic fatty liver disease]; [valproate, NAFLD]; [Valproic acid, Nonalcoholic fatty liver disease]; [Valproic acid, nonalcoholic fatty liver disease]; [Valproic acid, NAFLD]; [VPA, Nonalcoholic fatty liver disease]; [VPA, nonalcoholic fatty liver disease]; [VPA, NAFLD]; [valproate, insulin resistance]; [Valproic acid, insulin resistance]; [VPA, insulin resistance]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [Carbimazole, ANCA positive]; [carbimazole, ANCA positive]; [antithyroidmedications, Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis]; [Carbimazole, ANCA positive vasculitis]; [antithyroid medications, Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis]; [carbimazole, ANCA positive vasculitis]; [PTU, ANCA positive vasculitis]; [antithyroidmedications, potentially life-threatening adverse effect]; [antithyroid medications, potentially life-threatening adverse effect]",
+        "label": "chemical-induced disease relations: [Anti-thyroid drugs, parotiditis]; [antithyroid medications, parotiditis]; [antithyroidmedications, parotiditis]; [Anti-thyroid drugs, ANCA positive vasculitis]; [Anti-thyroid drugs, Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis]; [antithyroid medications, ANCA positive vasculitis]; [antithyroid medications, Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis]; [antithyroidmedications, ANCA positive vasculitis]; [antithyroidmedications, Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis]; [Anti-thyroid drugs, arthritis]; [antithyroid medications, arthritis]; [antithyroidmedications, arthritis]; [Carbimazole, parotiditis]; [carbimazole, parotiditis]; [Carbimazole, pyrexia]; [carbimazole, pyrexia]; [Anti-thyroid drugs, pyrexia]; [antithyroid medications, pyrexia]; [antithyroidmedications, pyrexia]; [Carbimazole, arthritis]; [carbimazole, arthritis]; [Carbimazole, ANCA positive vasculitis]; [Carbimazole, Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis]; [carbimazole, ANCA positive vasculitis]; [carbimazole, Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Aspirin, strokes]; [Aspirin, stroke]; [Aspirin, hemorrhagic strokes]; [aspirin, strokes]; [aspirin, stroke]; [aspirin, hemorrhagic strokes]; [Aspirin, hemorrhagic]; [aspirin, hemorrhagic]; [Aspirin, gastrointestinal bleeding]; [aspirin, gastrointestinal bleeding]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [argatroban, thrombosis]; [argatroban, HIT]; [argatroban, thrombocytopenia]; [argatroban, heparin-induced thrombocytopenia]; [argatroban, thromboses]; [argatroban, Major bleeding]; [argatroban, heparin-induced thrombosis]; [argatroban, heparin-induced thrombosis]; [argatroban, HIT]; [argatroban, thrombosis]; [argatroban, thrombocytopenia]",
+        "label": "chemical-induced disease relations: [argatroban, bleeding]; [Argatroban, bleeding]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [heroin, rhabdomyolysis]; [heroin, ischemic stroke]; [heroin, cerebral ischemic infarction]; [heroin, cerebral ischemic stroke]; [heroin, rhabdomyolysis]",
+        "label": "chemical-induced disease relations: [heroin, Rhabdomyolysis]; [heroin, rhabdomyolysis]; [methadone, Rhabdomyolysis]; [methadone, rhabdomyolysis]; [Methadone, Rhabdomyolysis]; [Methadone, rhabdomyolysis]; [heroin, stroke]; [methadone, stroke]; [Methadone, stroke]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [6-OHDA, dyskinesias]; [6-OHDA, motor impairment]; [6-OHDA, motor deterioration]; [6-OHDA, lesion]",
+        "label": "chemical-induced disease relations: [L-DOPA, dyskinesias]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [ouabain, mania]",
+        "label": "chemical-induced disease relations: [ouabain, mania]; [ouabain, bipolar mania]; [ouabain, bipolar disorder]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [acetaminophen, fulminant liver failure]",
+        "label": "chemical-induced disease relations: [acetaminophen, fulminant liver failure]; [acetaminophen, acute kidney injury]; [acetaminophen, AKI]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [flecainide, delirium]; [flecainide, confusion]",
+        "label": "chemical-induced disease relations: [flecainide, Delirium]; [flecainide, delirium]; [Flecainide, Delirium]; [Flecainide, delirium]; [paroxetine, Delirium]; [paroxetine, delirium]; [Paroxetine, Delirium]; [Paroxetine, delirium]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [everolimus, thrombocytopenia]; [RAD001, thrombocytopenia]; [everolimus, stomatitis]; [RAD001, stomatitis]; [everolimus, anemia]; [RAD001, anemia]; [everolimus, fatigue]; [RAD001, fatigue]; [everolimus, dyspnea]; [RAD001, dyspnea]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [sirolimus, anemia]",
+        "label": "chemical-induced disease relations: [sirolimus, anemia]; [Sirolimus, anemia]; [rapamycin, anemia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [cocaine, chest pain]; [cocaine, myocardial ischemia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [tacrolimus, posterior reversible encephalopathy syndrome]; [tacrolimus, Posterior leukoencephalopathy]; [tacrolimus, posterior leukoencephalopathy]; [tacrolimus, Posterior reversible encephalopathy syndrome]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [acetaminophen, cerebral edema]",
+        "label": "chemical-induced disease relations: [acetaminophen, fulminant hepatic failure]; [acetaminophen, FHF]; [acetaminophen, intracranial hypertension]; [acetaminophen, cerebral edema]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [vigabatrin, Binasal visual field defects]; [vigabatrin, visual defects]; [vigabatrin, Bilateral visual field abnormalities]; [VGB, Binasal visual field defects]; [VGB, visual defects]; [VGB, Bilateral visual field abnormalities]; [vigabatrin, retinal toxicity]; [VGB, retinal toxicity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [crack cocaine, HIV seroconversion]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the:",
+        "label": "chemical-induced disease relations: [5-fluorouracil, memory deficits]; [5-FU, memory deficits]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [phenobarbital, hepatomegaly]",
+        "label": "chemical-induced disease relations: [phenobarbital, hepatomegaly]; [PB, hepatomegaly]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Gentamicin, Nephropathy]; [Gentamicin, nephropathy]; [gentamicin, Nephropathy]; [gentamicin, nephropathy]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [alcohol, depression]; [alcohol, Depression]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [pilocarpine, status epilepticus]; [pilocarpine, SE]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [carmustine, cognitive dysfunction]; [BCNU, cognitive dysfunction]",
+        "label": "chemical-induced disease relations: [carmustine, deterioration of learning and short-term memory]; [carmustine, deterioration of]; [BCNU, deterioration of learning and short-term memory]; [BCNU, deterioration of]; [carmustine, deterioration of learning]; [BCNU, deterioration of learning]; [carmustine, cognitive dysfunction]; [BCNU, cognitive dysfunction]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [carbamazepine, cardiogenic shock]; [carbamazepine, myocarditis]; [carbamazepine, fulminant eosinophilic]; [carbamazepine, hypersensitivity]; [carbamazepine, drug hypersensitivity]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [levodopa, dyskinesia]; [Levodopa, dyskinesia]; [MPTP, parkinsonian disability]; [1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine, parkinsonian disability]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Contrast medium, nephrotoxicity]; [Contrast medium, Renal dysfunction]; [Contrast medium, nephrotoxic]; [Contrast medium, renal damage]; [contrast medium, nephrotoxicity]; [contrast medium, Renal dysfunction]; [contrast medium, nephrotoxic]; [contrast medium, renal damage]; [CM, nephrotoxicity]; [CM, Renal dysfunction]; [CM, nephrotoxic]; [CM, renal damage]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [acetaminophen, acute liver failure]; [acetaminophen, ALF]",
+        "label": "chemical-induced disease relations: [acetaminophen, hepatotoxicity]; [Acetaminophen, hepatotoxicity]; [acetaminophen, acute liver failure]; [acetaminophen, ALF]; [Acetaminophen, acute liver failure]; [Acetaminophen, ALF]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [streptozotocin, diabetic neuropathy]; [STZ, diabetic neuropathy]; [streptozotocin, hyperalgesia]; [STZ, hyperalgesia]; [carrageenan, inflammation]; [carrageenan, hyperalgesia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [heparin, thrombocytopenia]",
+        "label": "chemical-induced disease relations: [Heparin, thrombocytopenia]; [Heparin, HIT]; [heparin, thrombocytopenia]; [heparin, HIT]; [Heparin, Thrombosis]; [Heparin, thrombosis]; [heparin, Thrombosis]; [heparin, thrombosis]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [botox, adductor spasmodic dysphonia]; [botox, ADSD]; [Botox, adductor spasmodic dysphonia]; [Botox, ADSD]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [cocaine, cardiac dysfunction]",
+        "label": "chemical-induced disease relations: [cocaine, cardiac dysfunction]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [Trimethoprim, hemolytic anemia]; [trimethoprim, hemolytic anemia]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [streptozotocin, diabetic nephropathy]; [STZ, diabetic nephropathy]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [temsirolimus, refractory mantle cell lymphoma]",
+        "label": "chemical-induced disease relations: [temsirolimus, necrotic]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [spironolactone, Syncope]; [spiranolactone, Syncope]; [ramipril, hyperkalemia]; [spironolactone, hyperkalemia]; [spiranolactone, hyperkalemia]; [ramipril, bradycardia]; [spironolactone, bradycardia]; [spiranolactone, bradycardia]; [ramipril, hyperkalemia]; [spironolactone, bradycardia]",
+        "label": "chemical-induced disease relations: [potassium, bradycardia]; [spironolactone, hyperkalemia]; [spiranolactone, hyperkalemia]; [ramipril, hyperkalemia]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [alendronate, pain]",
+        "label": "chemical-induced disease relations: [alendronate, pain]; [Alendronate, pain]"
+    },
+    {
+        "pred": "chemical-induced disease relations in the text: [nafcillin, acute interstitial nephritis]",
+        "label": "chemical-induced disease relations: [nafcillin, interstitial nephritis]; [Nafcillin, interstitial nephritis]"
+    },
+    {
+        "pred": "chemical-induced disease relations: [lindane, convulsions]; [lindane, convulsive]; [lindane, seizures]; [Lindane, convulsions]; [Lindane, convulsive]; [Lindane, seizures]",
+        "label": "chemical-induced disease relations: [lindane, convulsions]; [lindane, convulsion]; [lindane, convulsive]; [lindane, seizures]; [Lindane, convulsions]; [Lindane, convulsion]; [Lindane, convulsive]; [Lindane, seizures]"
+    },
+    {
+        "pred": "The text does not contain any specified relations.",
+        "label": "chemical-induced disease relations: [glucose, Alzheimer's disease]; [glucose, AD]; [d-glucose, Alzheimer's disease]; [d-glucose, AD]; [streptozotocin, Alzheimer's disease]; [streptozotocin, AD]; [STZ, Alzheimer's disease]; [STZ, AD]; [streptozotocin, cognitive deficits]; [STZ, cognitive deficits]; [galactose, cognitive deficits]; [d-galactose, cognitive deficits]"
+    }
+]

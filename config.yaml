@@ -1,0 +1,64 @@
+#----------------------------1_extract_shot.py的配置信息--------------------------
+1_extract_shot:
+# procesd_set: 输入文件的路径
+# extractd_set: 输出文件的路径
+# model_name: embedding模型的路径
+# shot_num: few shot示例数
+# device_map: GPU
+
+  procesd_set: '/home/zjy/14_project/data/sft/1_procesd_set/pubmed_qa.json'
+  extractd_set: '/home/zjy/14_project/data/sft/2_extractd_set/pubmed_qa.json'
+  model_name: '/home/zjy/Current/model/embedding/bert-base-chinese'
+  shot_num: 1
+  device_map: 'cpu'
+
+#----------------------------2_generate_inpuf.py的配置信息--------------------------
+2_generate_inpuf:
+# extractd_set: 输入文件的路径
+# model_inpuf: 输出文件的路径
+# shot_num: few shot示例数
+# task_type: 任务类型 ['ner','re','tc','qa']
+# language：语言 ['en','zh']
+
+  extractd_set: '/home/zjy/14_project/data/sft/2_extractd_set/pubmed_qa_sft_1shot.json'
+  model_inpuf: '/home/zjy/14_project/data/sft/3_model_inpuf/pubmed_qa_sft_1shot.jsonl'
+  shot_num: 1
+  task_type: 'qa'
+  language: 'en'
+
+#----------------------------3_val.py的配置信息--------------------------
+# model_name: 推理模型的路径
+# device: GPU
+# model_inpuf: 输入文件的路径
+# pred_resulf: 输出文件的路径
+
+#推理参数:-----------------
+# max_new_tokens: 500
+# top_p: 0.9
+# temperature: 0.3
+# repetition_penalty: 1.0
+
+3_val:
+  model_name: '/home/zjy/14_project/model/LLM/Taiyi'
+  device: 'cuda:1'
+  model_inpuf: '/home/zjy/14_project/data/dev/3_model_inpuf/cmeee_dev_1shot.jsonl'
+  pred_resulf: '/home/zjy/14_project/data/dev/4_pred_resulf/cmeee_dev_1shot.json'
+  max_new_tokens: 500
+  top_p: 0.9
+  temperature: 0.3
+  repetition_penalty: 1.0
+
+#----------------------------4_score.py的配置信息--------------------------
+#pred_resulf: 输入文件的路径
+#log_file: 记录文件的路径
+# task_type: 任务类型 ['ner','re','tc','qa']
+
+4_score:
+  task_type: 'qa'
+  pred_resulf: '/home/zjy/14_project/data/dev/4_pred_resulf/KUAKE_QIC_dev_1shot.json'
+  log_file: '/home/zjy/14_project/score.log'
+
+#-----------------------------config.yaml的路径-------------------------------
+
+#提示!!!
+#要在每个脚本中配置config.yaml文件的路径,建议使用绝对路径

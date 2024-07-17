@@ -1,0 +1,71 @@
+Task Type: re
+	Date and Time: 2024-07-16 09:23:29
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/bc5cdr_re_dev_1shot.json
+	f1: 0.01441031475161168
+
+Task Type: re
+	Date and Time: 2024-07-16 11:31:53
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/bc5cdr_re_dev_1shot_1.json
+	f1: 0.03582945180938732
+
+Task Type: re
+	Date and Time: 2024-07-16 14:37:25
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/bc5cdr_re_dev_1shot_1.json
+	f1: 0.03582945180938732
+
+Task Type: re
+	Date and Time: 2024-07-16 15:21:37
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/bc5cdr_re_dev_1shot.json
+	f1: 0.010687022900763357
+
+Task Type: qa
+	Date and Time: 2024-07-16 20:37:50
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/pubmed_qa_dev_1shot.json
+	accurancy: 0.6277815239379636
+
+Task Type: tc
+	Date and Time: 2024-07-17 02:30:06
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/KUAKE_QIC_dev_1shot.json
+	f1: 0.6974522292993631
+
+Task Type: tc
+	Date and Time: 2024-07-17 02:32:19
+	File: /home/zjy/Current/15_all_rask/TC/KUAKE_QIC-dev/prediction_result.json
+	f1: 0.8088665830196572
+
+Notes: 1shot, 无微调, pubmed_qa
+Task Type: tc
+	Date and Time: 2024-07-17 02:47:16
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/pubmed_qa_dev_1shot.json
+	f1: 0
+
+Notes: 1shot, 无微调, pubmed_qa
+	Task Type: qa
+	Date and Time: 2024-07-17 02:48:14
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/pubmed_qa_dev_1shot.json
+	accurancy: 0.6277815239379636
+
+Notes: 1shot, 有微调, pubmed_qa
+	Task Type: qa
+	Date and Time: 2024-07-17 10:14:21
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/pubmed_qa_dev_tmerge_1shot.json
+	accurancy: 0.6162862430598396
+
+Notes: 1shot, 5epoach, pubmed_qa
+	Task Type: qa
+	Date and Time: 2024-07-17 12:46:16
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/pubmed_qa_dev_5epoach_1shot.json
+	accurancy: 0.408791599928813
+
+Notes: 1shot, 5epoach, bc5cdr_re
+	Task Type: re
+	Date and Time: 2024-07-17 14:32:28
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/bc5cdr_re_dev_5epoach_1shot.json
+	f1: 0.4535830618892508
+
+Notes: 0shot, Taiyi, bc5cdr_re
+	Task Type: re
+	Date and Time: 2024-07-17 15:47:51
+	File: /home/zjy/14_project/data/dev/4_pred_resulf/bc5cdr_re_dev_0shot.json
+	f1: 0.29250645994832036
+
